@@ -1,0 +1,380 @@
+,Client,Project,Description,Start date,Start time,End date,End time,Duration,Tags,Type,Domain
+0,F2023,GenAI & Art,Banquet Slides,2023-08-21,10:57:04,2023-08-21,10:57:39,0 days 00:00:35,"Domain: School, Type: Implementing",Implementing,School
+1,F2023,GenAI & Art,Banquet Slides,2023-08-21,11:00:43,2023-08-21,11:19:58,0 days 00:19:15,"Domain: School, Type: Implementing",Implementing,School
+2,F2023,Algorithms,Pre-Quiz,2023-08-21,20:16:02,2023-08-21,20:28:49,0 days 00:12:47,"Domain: School, Type: Practice",Practice,School
+3,F2023,SWE,C01A,2023-08-21,20:39:26,2023-08-21,20:46:14,0 days 00:06:48,"Domain: School, Type: Writing",Writing,School
+4,F2023,SWE,C01S: OOP Survey,2023-08-21,20:46:53,2023-08-21,20:49:40,0 days 00:02:47,"Domain: School, Type: Assessment",Assessment,School
+5,F2023,SWE,C01P,2023-08-21,20:51:20,2023-08-21,20:58:38,0 days 00:07:18,"Domain: School, Type: Reading",Reading,School
+6,F2023,SWE,C02P,2023-08-21,20:59:37,2023-08-21,21:38:58,0 days 00:39:21,"Domain: School, Type: Reading",Reading,School
+7,,Personal Admin Maintenance,Climbing Email,2023-08-22,09:33:58,2023-08-22,09:41:19,0 days 00:07:21,"Domain: School, Type: Writing",Writing,School
+8,,Personal Admin Maintenance,Click-Up Scheduling,2023-08-22,18:36:35,2023-08-22,18:57:48,0 days 00:21:13,"Domain: School, Type: Implementing",Implementing,School
+9,F2023,SWE,C02P,2023-08-23,09:48:57,2023-08-23,10:19:18,0 days 00:30:21,"Domain: School, Type: Reading",Reading,School
+10,F2023,SWE,C03P Prep,2023-08-23,10:22:08,2023-08-23,10:53:00,0 days 00:30:52,"Domain: School, Type: Reading",Reading,School
+11,F2023,SWE,C02Q: Partner Declare,2023-08-23,13:47:48,2023-08-23,13:53:14,0 days 00:05:26,"Domain: School, Type: Implementing",Implementing,School
+12,F2023,SWE,C02A-1: Eclipse and Java,2023-08-23,13:53:48,2023-08-23,14:37:51,0 days 00:44:03,"Domain: School, Type: Coding",Coding,School
+13,F2023,Algorithms,Pre-Quiz,2023-08-23,14:59:37,2023-08-23,15:05:00,0 days 00:05:23,"Domain: School, Type: Practice",Practice,School
+14,F2023,Algorithms,HW Example,2023-08-23,15:05:48,2023-08-23,15:19:41,0 days 00:13:53,"Domain: School, Type: Practice",Practice,School
+15,F2023,Algorithms,HW Example,2023-08-24,11:16:55,2023-08-24,11:45:27,0 days 00:28:32,"Domain: School, Type: Practice",Practice,School
+16,F2023,Algorithms,HW Example,2023-08-25,13:30:00,2023-08-25,13:42:47,0 days 00:12:47,"Domain: School, Type: Practice",Practice,School
+18,F2023,Algorithms,HW1,2023-08-28,13:53:02,2023-08-28,14:20:30,0 days 00:27:28,"Domain: School, Type: Practice",Practice,School
+19,F2023,SWE,C04P,2023-08-28,14:25:00,2023-08-28,15:04:47,0 days 00:39:47,"Domain: School, Type: Reading",Reading,School
+20,F2023,OS,P1-D2,2023-08-28,15:33:00,2023-08-28,15:55:41,0 days 00:22:41,"Domain: School, Type: Coding",Coding,School
+21,F2023,OS,P1-D2,2023-08-28,15:55:51,2023-08-28,16:42:29,0 days 00:46:38,"Domain: School, Type: Coding",Coding,School
+22,F2023,OS,P1-D2,2023-08-28,16:46:52,2023-08-28,17:14:05,0 days 00:27:13,"Domain: School, Type: Coding",Coding,School
+23,F2023,GenAI & Art,Understanding Comics,2023-08-28,20:19:40,2023-08-28,20:51:19,0 days 00:31:39,"Domain: School, Type: Reading",Reading,School
+24,F2023,OS,P1-D2,2023-08-29,09:16:26,2023-08-29,09:49:35,0 days 00:33:09,"Domain: School, Type: Coding",Coding,School
+25,F2023,OS,P1-D2,2023-08-29,09:50:25,2023-08-29,10:10:20,0 days 00:19:55,"Domain: School, Type: Coding",Coding,School
+26,F2023,OS,P1-D2,2023-08-29,10:17:17,2023-08-29,10:58:05,0 days 00:40:48,"Domain: School, Type: Coding",Coding,School
+27,F2023,GenAI & Art,Understanding Comics,2023-08-29,11:04:03,2023-08-29,11:36:34,0 days 00:32:31,"Domain: School, Type: Reading",Reading,School
+28,F2023,OS,P1-D2,2023-08-29,13:34:50,2023-08-29,13:48:19,0 days 00:13:29,"Domain: School, Type: Coding",Coding,School
+29,F2023,GenAI & Art,Week 1 Assignment,2023-08-29,20:04:11,2023-08-29,20:53:36,0 days 00:49:25,"Domain: School, Type: Writing",Writing,School
+30,F2023,SWE,C03A-1 (CodingBat Pair),2023-08-30,09:08:34,2023-08-30,09:23:20,0 days 00:14:46,"Domain: School, Type: Implementing",Implementing,School
+32,F2023,Algorithms,Graphs Reading,2023-08-30,10:09:48,2023-08-30,10:20:22,0 days 00:10:34,"Domain: School, Type: Reading",Reading,School
+33,F2023,Algorithms,HW1,2023-08-30,10:20:28,2023-08-30,10:40:35,0 days 00:20:07,"Domain: School, Type: Practice",Practice,School
+34,F2023,OS,P1-D2,2023-08-30,10:43:23,2023-08-30,11:10:01,0 days 00:26:38,"Domain: School, Type: Coding",Coding,School
+35,F2023,SWE,C03A-2 (CodingBat Individual),2023-08-31,10:45:20,2023-08-31,11:15:41,0 days 00:30:21,"Domain: School, Type: Coding",Coding,School
+36,F2023,SWE,C03A-2 (CodingBat Individual),2023-08-31,15:19:49,2023-08-31,15:29:06,0 days 00:09:17,"Domain: School, Type: Coding",Coding,School
+37,F2023,GenAI & Art,Daytripper,2023-08-31,16:31:22,2023-08-31,17:09:45,0 days 00:38:23,"Domain: School, Type: Reading",Reading,School
+38,F2023,SWE,C05P,2023-09-01,10:17:42,2023-09-01,10:50:40,0 days 00:32:58,"Domain: School, Type: Reading",Reading,School
+39,F2023,Algorithms,HW1,2023-09-01,10:51:12,2023-09-01,11:02:55,0 days 00:11:43,"Domain: School, Type: Practice",Practice,School
+40,F2023,SWE,C03A-1 (CodingBat Pair),2023-09-01,11:25:00,2023-09-01,11:45:26,0 days 00:20:26,"Domain: School, Type: Implementing",Implementing,School
+41,F2023,Algorithms,HW1,2023-09-01,14:23:08,2023-09-01,14:47:06,0 days 00:23:58,"Domain: School, Type: Practice",Practice,School
+42,F2023,OS,HW1,2023-09-01,14:50:34,2023-09-01,15:24:56,0 days 00:34:22,"Domain: School, Type: Practice",Practice,School
+43,F2023,OS,P1-D2,2023-09-01,15:35:11,2023-09-01,16:04:47,0 days 00:29:36,"Domain: School, Type: Coding",Coding,School
+44,F2023,OS,HW1,2023-09-01,16:11:08,2023-09-01,16:18:00,0 days 00:06:52,"Domain: School, Type: Practice",Practice,School
+45,F2023,GenAI & Art,Understanding Comics,2023-09-01,16:27:51,2023-09-01,16:57:48,0 days 00:29:57,"Domain: School, Type: Reading",Reading,School
+46,F2023,GenAI & Art,Daytripper,2023-09-04,15:38:05,2023-09-04,16:19:14,0 days 00:41:09,"Domain: School, Type: Reading",Reading,School
+47,F2023,SWE,C06P,2023-09-05,09:00:45,2023-09-05,09:32:14,0 days 00:31:29,"Domain: School, Type: Reading",Reading,School
+48,F2023,GenAI & Art,Daytripper,2023-09-05,10:11:16,2023-09-05,10:22:11,0 days 00:10:55,"Domain: School, Type: Reading",Reading,School
+49,F2023,GenAI & Art,Daytripper,2023-09-05,10:44:00,2023-09-05,10:54:34,0 days 00:10:34,"Domain: School, Type: Reading",Reading,School
+50,F2023,Algorithms,Week 3 Videos,2023-09-05,10:56:26,2023-09-05,11:16:20,0 days 00:19:54,"Domain: School, Type: Reading",Reading,School
+51,F2023,Algorithms,HW2,2023-09-05,11:16:37,2023-09-05,11:58:08,0 days 00:41:31,"Domain: School, Type: Practice",Practice,School
+52,F2023,OS,P1-D2,2023-09-05,21:07:05,2023-09-05,21:18:13,0 days 00:11:08,"Domain: School, Type: Coding",Coding,School
+53,F2023,GenAI & Art,Understanding Comics,2023-09-06,09:04:46,2023-09-06,09:07:45,0 days 00:02:59,"Domain: School, Type: Reading",Reading,School
+54,F2023,GenAI & Art,Understanding Comics,2023-09-06,09:11:12,2023-09-06,09:29:52,0 days 00:18:40,"Domain: School, Type: Reading",Reading,School
+55,F2023,GenAI & Art,Week 2 Reflection,2023-09-06,09:30:06,2023-09-06,10:01:58,0 days 00:31:52,"Domain: School, Type: Writing",Writing,School
+56,F2023,Algorithms,HW2,2023-09-06,15:16:35,2023-09-06,15:56:47,0 days 00:40:12,"Domain: School, Type: Practice",Practice,School
+58,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-07,08:45:00,2023-09-07,08:52:04,0 days 00:07:04,"Domain: School, Type: Writing",Writing,School
+59,F2023,GenAI & Art,Understanding Comics,2023-09-07,10:35:49,2023-09-07,11:09:30,0 days 00:33:41,"Domain: School, Type: Reading",Reading,School
+60,F2023,GenAI & Art,Understanding Comics,2023-09-07,11:14:32,2023-09-07,11:34:37,0 days 00:20:05,"Domain: School, Type: Reading",Reading,School
+61,F2023,SWE,C06A: Stove,2023-09-08,09:32:37,2023-09-08,09:55:39,0 days 00:23:02,"Domain: School, Type: Coding",Coding,School
+63,F2023,GenAI & Art,Understanding Comics,2023-09-08,14:51:40,2023-09-08,15:12:42,0 days 00:21:02,"Domain: School, Type: Reading",Reading,School
+64,F2023,Algorithms,HW2,2023-09-08,15:13:54,2023-09-08,15:21:23,0 days 00:07:29,"Domain: School, Type: Practice",Practice,School
+66,F2023,Algorithms,Maze Project - Code,2023-09-08,17:11:44,2023-09-08,17:26:19,0 days 00:14:35,"Domain: School, Type: Coding",Coding,School
+67,F2023,Algorithms,Maze Project - Code,2023-09-08,20:07:28,2023-09-08,20:19:18,0 days 00:11:50,"Domain: School, Type: Coding",Coding,School
+68,F2023,Algorithms,Maze Project - Code,2023-09-09,09:33:14,2023-09-09,11:02:28,0 days 01:29:14,"Domain: School, Type: Coding",Coding,School
+69,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-10,19:35:04,2023-09-10,20:27:50,0 days 00:52:46,"Domain: School, Type: Writing",Writing,School
+70,F2023,Algorithms,Maze Project - Code,2023-09-10,20:28:24,2023-09-10,21:05:57,0 days 00:37:33,"Domain: School, Type: Coding",Coding,School
+71,F2023,SWE,C06A: Stove,2023-09-11,08:35:32,2023-09-11,08:44:57,0 days 00:09:25,"Domain: School, Type: Coding",Coding,School
+72,F2023,Algorithms,Maze Project - Code,2023-09-11,08:48:45,2023-09-11,10:15:12,0 days 01:26:27,"Domain: School, Type: Coding",Coding,School
+73,F2023,Algorithms,Maze Project - Code,2023-09-11,10:19:23,2023-09-11,10:21:52,0 days 00:02:29,"Domain: School, Type: Coding",Coding,School
+74,F2023,Algorithms,Maze Project - Code,2023-09-11,10:51:20,2023-09-11,10:54:00,0 days 00:02:40,"Domain: School, Type: Coding",Coding,School
+75,F2023,SWE,C07P,2023-09-11,10:54:24,2023-09-11,11:09:58,0 days 00:15:34,"Domain: School, Type: Reading",Reading,School
+76,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-11,18:19:20,2023-09-11,19:28:03,0 days 01:08:43,"Domain: School, Type: Writing",Writing,School
+77,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-11,19:34:03,2023-09-11,19:39:01,0 days 00:04:58,"Domain: School, Type: Writing",Writing,School
+78,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-11,19:50:00,2023-09-11,20:16:18,0 days 00:26:18,"Domain: School, Type: Writing",Writing,School
+79,F2023,Algorithms,Maze Project - Testing,2023-09-11,20:17:00,2023-09-11,20:29:29,0 days 00:12:29,"Domain: School, Type: Coding",Coding,School
+80,F2023,Algorithms,Maze Project - Testing,2023-09-11,22:02:00,2023-09-11,22:21:38,0 days 00:19:38,"Domain: School, Type: Coding",Coding,School
+81,F2023,SWE,C07P,2023-09-11,22:21:53,2023-09-11,22:37:37,0 days 00:15:44,"Domain: School, Type: Reading",Reading,School
+82,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-12,16:49:17,2023-09-12,17:26:23,0 days 00:37:06,"Domain: School, Type: Writing",Writing,School
+83,F2023,Algorithms,Maze Project - Testing,2023-09-12,17:53:59,2023-09-12,18:03:52,0 days 00:09:53,"Domain: School, Type: Coding",Coding,School
+84,F2023,Algorithms,Maze Project - Testing,2023-09-12,18:11:42,2023-09-12,18:24:15,0 days 00:12:33,"Domain: School, Type: Coding",Coding,School
+85,F2023,GenAI & Art,Week 4 Assignment,2023-09-12,19:11:51,2023-09-12,20:01:35,0 days 00:49:44,"Domain: School, Type: Writing",Writing,School
+86,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-13,08:27:42,2023-09-13,08:47:16,0 days 00:19:34,"Domain: School, Type: Writing",Writing,School
+87,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-13,11:30:00,2023-09-13,11:45:00,0 days 00:15:00,"Domain: School, Type: Writing",Writing,School
+88,F2023,GenAI & Art,Daytripper Critical Essay,2023-09-13,14:10:24,2023-09-13,14:14:11,0 days 00:03:47,"Domain: School, Type: Writing",Writing,School
+89,,Personal Admin Maintenance,Running Email,2023-09-13,14:22:04,2023-09-13,14:23:53,0 days 00:01:49,"Domain: School, Type: Implementing",Implementing,School
+90,,Personal Admin Maintenance,Running Email,2023-09-13,14:27:28,2023-09-13,14:34:36,0 days 00:07:08,"Domain: School, Type: Implementing",Implementing,School
+91,F2023,SWE,C08P,2023-09-13,14:59:35,2023-09-13,15:30:00,0 days 00:30:25,"Domain: School, Type: Reading",Reading,School
+92,F2023,Algorithms,Maze Project - Report,2023-09-14,11:25:08,2023-09-14,11:37:46,0 days 00:12:38,"Domain: School, Type: Writing",Writing,School
+93,F2023,Algorithms,Maze Project - Report,2023-09-14,11:40:00,2023-09-14,12:00:07,0 days 00:20:07,"Domain: School, Type: Writing",Writing,School
+94,F2023,Algorithms,Maze Project - Code,2023-09-14,18:05:10,2023-09-14,18:19:08,0 days 00:13:58,"Domain: School, Type: Coding",Coding,School
+95,F2023,Algorithms,Maze Project - Report,2023-09-14,18:19:12,2023-09-14,19:43:30,0 days 01:24:18,"Domain: School, Type: Writing",Writing,School
+96,F2023,SWE,C07A-2,2023-09-14,19:47:29,2023-09-14,20:30:27,0 days 00:42:58,"Domain: School, Type: Implementing",Implementing,School
+97,F2023,Algorithms,Maze Project - Report,2023-09-15,11:25:16,2023-09-15,11:50:44,0 days 00:25:28,"Domain: School, Type: Writing",Writing,School
+98,F2023,SWE,C07A-2,2023-09-15,13:42:33,2023-09-15,14:11:10,0 days 00:28:37,"Domain: School, Type: Implementing",Implementing,School
+99,F2023,Algorithms,Maze Project - Report,2023-09-15,14:11:32,2023-09-15,14:42:44,0 days 00:31:12,"Domain: School, Type: Writing",Writing,School
+100,F2023,Algorithms,Maze Project - Report,2023-09-15,14:44:49,2023-09-15,14:55:13,0 days 00:10:24,"Domain: School, Type: Writing",Writing,School
+101,F2023,SWE,C07C,2023-09-15,15:17:22,2023-09-15,16:33:45,0 days 01:16:23,"Domain: School, Type: Coding",Coding,School
+102,F2023,Algorithms,Maze Project - Report,2023-09-15,20:22:06,2023-09-15,20:31:12,0 days 00:09:06,"Domain: School, Type: Writing",Writing,School
+103,F2023,OS,P2-D1,2023-09-18,09:20:37,2023-09-18,09:36:16,0 days 00:15:39,"Domain: School, Type: Coding",Coding,School
+104,F2023,SWE,C09P,2023-09-18,10:32:02,2023-09-18,10:59:25,0 days 00:27:23,"Domain: School, Type: Reading",Reading,School
+105,F2023,Algorithms,AlgoBowl Pre-Read,2023-09-18,11:15:00,2023-09-18,11:22:20,0 days 00:07:20,"Domain: School, Type: Reading",Reading,School
+106,F2023,Algorithms,MST Pre-Read,2023-09-18,11:23:00,2023-09-18,11:30:44,0 days 00:07:44,"Domain: School, Type: Reading",Reading,School
+107,F2023,GenAI & Art,Week 5 Assignment (Brain-storming 2),2023-09-18,11:33:43,2023-09-18,11:47:28,0 days 00:13:45,"Domain: School, Type: Writing",Writing,School
+108,F2023,GenAI & Art,Maus,2023-09-18,13:30:00,2023-09-18,14:15:00,0 days 00:45:00,"Domain: School, Type: Reading",Reading,School
+109,F2023,SWE,C09P,2023-09-18,15:44:31,2023-09-18,15:47:09,0 days 00:02:38,"Domain: School, Type: Reading",Reading,School
+110,F2023,SWE,P2 Jesus Lecture,2023-09-18,15:51:31,2023-09-18,16:29:15,0 days 00:37:44,"Domain: School, Type: Reading",Reading,School
+111,F2023,SWE,P2 Jesus Lecture,2023-09-18,16:34:23,2023-09-18,16:43:44,0 days 00:09:21,"Domain: School, Type: Reading",Reading,School
+112,F2023,OS,P2-D1,2023-09-18,16:43:47,2023-09-18,17:01:27,0 days 00:17:40,"Domain: School, Type: Coding",Coding,School
+113,F2023,OS,P2-D1,2023-09-18,19:23:17,2023-09-18,20:44:21,0 days 01:21:04,"Domain: School, Type: Coding",Coding,School
+114,F2023,GenAI & Art,Week 5 Assignment (Brain-storming 2),2023-09-18,20:44:45,2023-09-18,21:04:38,0 days 00:19:53,"Domain: School, Type: Writing",Writing,School
+115,F2023,GenAI & Art,Week 5 Assignment (Brain-storming 2),2023-09-19,09:06:59,2023-09-19,09:48:52,0 days 00:41:53,"Domain: School, Type: Writing",Writing,School
+116,F2023,Algorithms,HW3,2023-09-19,09:51:27,2023-09-19,10:30:26,0 days 00:38:59,"Domain: School, Type: Practice",Practice,School
+117,F2023,OS,P2-D1,2023-09-19,11:34:00,2023-09-19,11:54:41,0 days 00:20:41,"Domain: School, Type: Coding",Coding,School
+118,F2023,GenAI & Art,Maus,2023-09-19,19:47:10,2023-09-19,21:02:21,0 days 01:15:11,"Domain: School, Type: Reading",Reading,School
+119,F2023,SWE,C10P,2023-09-20,08:53:57,2023-09-20,09:11:58,0 days 00:18:01,"Domain: School, Type: Reading",Reading,School
+120,F2023,SWE,C10P,2023-09-20,13:07:49,2023-09-20,13:19:33,0 days 00:11:44,"Domain: School, Type: Reading",Reading,School
+121,F2023,GenAI & Art,Week 5 Assignment (Brain-storming 2),2023-09-20,13:39:52,2023-09-20,13:51:47,0 days 00:11:55,"Domain: School, Type: Writing",Writing,School
+122,F2023,OS,HW2,2023-09-21,10:43:45,2023-09-21,11:02:47,0 days 00:19:02,"Domain: School, Type: Practice",Practice,School
+123,F2023,Algorithms,HW3,2023-09-21,11:02:52,2023-09-21,11:03:30,0 days 00:00:38,"Domain: School, Type: Practice",Practice,School
+124,F2023,SWE,C09A-1,2023-09-21,11:03:43,2023-09-21,11:36:54,0 days 00:33:11,"Domain: School, Type: Coding",Coding,School
+125,F2023,Algorithms,HW3,2023-09-22,21:12:11,2023-09-22,21:43:05,0 days 00:30:54,"Domain: School, Type: Practice",Practice,School
+126,F2023,GenAI & Art,Maus,2023-09-23,11:04:48,2023-09-23,11:59:53,0 days 00:55:05,"Domain: School, Type: Reading",Reading,School
+127,F2023,Algorithms,Shortest Path Pre-Read,2023-09-25,11:30:00,2023-09-25,11:38:00,0 days 00:08:00,"Domain: School, Type: Reading",Reading,School
+128,F2023,SWE,C11P,2023-09-25,15:43:06,2023-09-25,16:02:34,0 days 00:19:28,"Domain: School, Type: Reading",Reading,School
+129,F2023,GenAI & Art,Maus,2023-09-25,19:52:00,2023-09-25,20:27:26,0 days 00:35:26,"Domain: School, Type: Reading",Reading,School
+130,F2023,GenAI & Art,Maus,2023-09-26,09:27:11,2023-09-26,09:46:28,0 days 00:19:17,"Domain: School, Type: Reading",Reading,School
+131,F2023,SWE,C12P,2023-09-26,10:08:49,2023-09-26,10:37:53,0 days 00:29:04,"Domain: School, Type: Reading",Reading,School
+132,F2023,GenAI & Art,Maus Critical Essay 2,2023-09-26,10:38:27,2023-09-26,10:46:02,0 days 00:07:35,"Domain: School, Type: Writing",Writing,School
+133,F2023,SWE,C11A-2,2023-09-26,11:04:36,2023-09-26,11:43:15,0 days 00:38:39,"Domain: School, Type: Coding",Coding,School
+134,F2023,GenAI & Art,"Week 5 Assignment (GAI tools, loglines)",2023-09-26,19:09:37,2023-09-26,19:49:40,0 days 00:40:03,"Domain: School, Type: Writing",Writing,School
+135,F2023,GenAI & Art,"Week 5 Assignment (GAI tools, loglines)",2023-09-26,19:55:00,2023-09-26,20:09:02,0 days 00:14:02,"Domain: School, Type: Writing",Writing,School
+136,F2023,GenAI & Art,"Week 5 Assignment (GAI tools, loglines)",2023-09-26,20:14:32,2023-09-26,20:19:13,0 days 00:04:41,"Domain: School, Type: Writing",Writing,School
+137,F2023,Algorithms,Algobowl,2023-09-27,15:54:37,2023-09-27,16:57:15,0 days 01:02:38,"Domain: School, Type: Coding",Coding,School
+138,F2023,Algorithms,Algobowl,2023-09-27,17:45:54,2023-09-27,17:54:59,0 days 00:09:05,"Domain: School, Type: Coding",Coding,School
+139,F2023,Algorithms,Algobowl,2023-09-27,21:12:27,2023-09-27,21:46:17,0 days 00:33:50,"Domain: School, Type: Coding",Coding,School
+140,F2023,Algorithms,Algobowl,2023-09-29,07:55:35,2023-09-29,08:19:55,0 days 00:24:20,"Domain: School, Type: Coding",Coding,School
+141,F2023,SWE,C12A-1,2023-09-29,08:31:32,2023-09-29,08:42:17,0 days 00:10:45,"Domain: School, Type: Coding",Coding,School
+142,F2023,SWE,C12A-1,2023-09-29,18:13:48,2023-09-29,18:17:20,0 days 00:03:32,"Domain: School, Type: Coding",Coding,School
+143,F2023,SWE,C12A-1,2023-09-29,18:17:35,2023-09-29,18:24:10,0 days 00:06:35,"Domain: School, Type: Coding",Coding,School
+144,F2023,Algorithms,Algobowl,2023-09-29,18:50:35,2023-09-29,19:15:14,0 days 00:24:39,"Domain: School, Type: Coding",Coding,School
+145,F2023,SWE,C12A-1,2023-09-30,11:04:28,2023-09-30,11:09:06,0 days 00:04:38,"Domain: School, Type: Coding",Coding,School
+146,F2023,SWE,C12A-2,2023-09-30,11:53:01,2023-09-30,12:14:07,0 days 00:21:06,"Domain: School, Type: Coding",Coding,School
+147,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-01,19:21:45,2023-10-01,20:25:03,0 days 01:03:18,"Domain: School, Type: Writing",Writing,School
+148,F2023,SWE,C12A-2,2023-10-01,20:29:39,2023-10-01,20:46:21,0 days 00:16:42,"Domain: School, Type: Coding",Coding,School
+149,F2023,OS,P2-D2,2023-10-02,08:51:45,2023-10-02,09:24:17,0 days 00:32:32,"Domain: School, Type: Coding",Coding,School
+150,F2023,OS,P2-D2,2023-10-02,10:16:16,2023-10-02,11:02:02,0 days 00:45:46,"Domain: School, Type: Coding",Coding,School
+151,F2023,OS,P2-D2,2023-10-02,11:29:02,2023-10-02,11:48:09,0 days 00:19:07,"Domain: School, Type: Coding",Coding,School
+152,F2023,OS,P2-D2,2023-10-02,13:43:09,2023-10-02,15:45:49,0 days 02:02:40,"Domain: School, Type: Coding",Coding,School
+153,F2023,OS,P2-D2,2023-10-02,16:09:09,2023-10-02,18:22:37,0 days 02:13:28,"Domain: School, Type: Coding",Coding,School
+154,F2023,SWE,C13P,2023-10-02,20:41:06,2023-10-02,21:00:49,0 days 00:19:43,"Domain: School, Type: Reading",Reading,School
+155,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-03,09:06:45,2023-10-03,09:56:41,0 days 00:49:56,"Domain: School, Type: Writing",Writing,School
+156,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-03,10:00:04,2023-10-03,10:01:39,0 days 00:01:35,"Domain: School, Type: Writing",Writing,School
+157,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-03,10:02:25,2023-10-03,11:24:23,0 days 01:21:58,"Domain: School, Type: Writing",Writing,School
+158,F2023,OS,P2-D2,2023-10-03,14:00:00,2023-10-03,14:30:00,0 days 00:30:00,"Domain: School, Type: Coding",Coding,School
+159,F2023,OS,P2-D2,2023-10-03,16:29:16,2023-10-03,17:10:13,0 days 00:40:57,"Domain: School, Type: Coding",Coding,School
+160,F2023,OS,P2-D2,2023-10-03,17:11:09,2023-10-03,17:37:25,0 days 00:26:16,"Domain: School, Type: Coding",Coding,School
+161,F2023,OS,P2-D2,2023-10-03,17:51:37,2023-10-03,17:51:37,0 days 00:00:00,"Domain: School, Type: Coding",Coding,School
+162,F2023,OS,P2-D2,2023-10-03,17:51:38,2023-10-03,17:51:42,0 days 00:00:04,"Domain: School, Type: Coding",Coding,School
+163,F2023,OS,P2-D2,2023-10-03,17:51:42,2023-10-03,18:03:13,0 days 00:11:31,"Domain: School, Type: Coding",Coding,School
+164,F2023,OS,P2-D2,2023-10-03,18:33:31,2023-10-03,19:10:10,0 days 00:36:39,"Domain: School, Type: Coding",Coding,School
+165,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-03,19:26:49,2023-10-03,20:55:10,0 days 01:28:21,"Domain: School, Type: Writing",Writing,School
+166,F2023,GenAI & Art,Week 6 Assignment (CCA),2023-10-04,11:27:47,2023-10-04,11:52:05,0 days 00:24:18,"Domain: School, Type: Reading",Reading,School
+167,F2023,GenAI & Art,Maus Critical Essay 2,2023-10-04,13:46:39,2023-10-04,14:39:10,0 days 00:52:31,"Domain: School, Type: Writing",Writing,School
+168,F2023,SWE,C14P,2023-10-05,10:44:07,2023-10-05,10:53:43,0 days 00:09:36,"Domain: School, Type: Reading",Reading,School
+169,F2023,OS,HW3,2023-10-05,12:40:14,2023-10-05,12:46:39,0 days 00:06:25,"Domain: School, Type: Practice",Practice,School
+170,F2023,Algorithms,HW5,2023-10-05,12:54:58,2023-10-05,13:41:27,0 days 00:46:29,"Domain: School, Type: Practice",Practice,School
+171,F2023,SWE,C13A-2,2023-10-05,13:55:52,2023-10-05,14:09:38,0 days 00:13:46,"Domain: School, Type: Coding",Coding,School
+172,F2023,SWE,C13A-2,2023-10-05,14:19:36,2023-10-05,14:25:11,0 days 00:05:35,"Domain: School, Type: Coding",Coding,School
+173,F2023,SWE,C13A-2,2023-10-05,16:15:18,2023-10-05,16:27:50,0 days 00:12:32,"Domain: School, Type: Coding",Coding,School
+174,F2023,SWE,C13A-2,2023-10-05,21:12:12,2023-10-05,21:38:06,0 days 00:25:54,"Domain: School, Type: Coding",Coding,School
+175,F2023,SWE,C13A-2,2023-10-05,21:42:56,2023-10-05,21:47:11,0 days 00:04:15,"Domain: School, Type: Coding",Coding,School
+176,F2023,SWE,C13A-2,2023-10-06,10:37:53,2023-10-06,11:07:36,0 days 00:29:43,"Domain: School, Type: Coding",Coding,School
+177,F2023,Algorithms,HW5,2023-10-07,19:48:27,2023-10-07,21:00:58,0 days 01:12:31,"Domain: School, Type: Practice",Practice,School
+178,F2023,Algorithms,Algobowl,2023-10-08,18:42:29,2023-10-08,20:37:49,0 days 01:55:20,"Domain: School, Type: Coding",Coding,School
+179,F2023,Algorithms,Algobowl,2023-10-08,20:45:45,2023-10-08,21:01:55,0 days 00:16:10,"Domain: School, Type: Coding",Coding,School
+180,F2023,SWE,C14A-1,2023-10-08,22:35:32,2023-10-09,00:13:10,0 days 01:37:38,"Domain: School, Type: Coding",Coding,School
+181,F2023,OS,HW3,2023-10-09,10:37:31,2023-10-09,10:57:58,0 days 00:20:27,"Domain: School, Type: Practice",Practice,School
+182,F2023,SWE,C14A-1,2023-10-09,11:00:55,2023-10-09,11:30:15,0 days 00:29:20,"Domain: School, Type: Coding",Coding,School
+183,F2023,SWE,C14A-1,2023-10-09,13:18:27,2023-10-09,13:20:26,0 days 00:01:59,"Domain: School, Type: Coding",Coding,School
+184,F2023,Algorithms,Algobowl,2023-10-09,13:20:51,2023-10-09,13:56:59,0 days 00:36:08,"Domain: School, Type: Coding",Coding,School
+185,F2023,Algorithms,Algobowl,2023-10-09,13:50:00,2023-10-09,14:06:50,0 days 00:16:50,"Domain: School, Type: Coding",Coding,School
+186,F2023,SWE,C14A-1,2023-10-09,14:08:03,2023-10-09,14:17:16,0 days 00:09:13,"Domain: School, Type: Coding",Coding,School
+187,F2023,SWE,C14A-2,2023-10-09,14:47:15,2023-10-09,16:17:50,0 days 01:30:35,"Domain: School, Type: Coding",Coding,School
+188,F2023,Algorithms,Algobowl,2023-10-09,17:47:57,2023-10-09,17:55:00,0 days 00:07:03,"Domain: School, Type: Coding",Coding,School
+189,F2023,Algorithms,Algobowl,2023-10-09,18:35:08,2023-10-09,19:10:31,0 days 00:35:23,"Domain: School, Type: Coding",Coding,School
+190,F2023,SWE,C15P,2023-10-10,09:49:02,2023-10-10,10:07:47,0 days 00:18:45,"Domain: School, Type: Reading",Reading,School
+191,F2023,GenAI & Art,Graphic Novel Outline,2023-10-10,10:25:25,2023-10-10,11:36:40,0 days 01:11:15,"Domain: School, Type: Writing",Writing,School
+192,F2023,Algorithms,Algobowl,2023-10-11,06:45:00,2023-10-11,07:34:53,0 days 00:49:53,"Domain: School, Type: Coding",Coding,School
+193,F2023,Algorithms,Algobowl,2023-10-11,07:38:35,2023-10-11,07:42:26,0 days 00:03:51,"Domain: School, Type: Coding",Coding,School
+194,F2023,Algorithms,Algobowl,2023-10-11,08:24:00,2023-10-11,08:44:50,0 days 00:20:50,"Domain: School, Type: Coding",Coding,School
+195,F2023,GenAI & Art,Graphic Novel Outline,2023-10-11,09:38:09,2023-10-11,10:25:23,0 days 00:47:14,"Domain: School, Type: Writing",Writing,School
+196,F2023,GenAI & Art,Week 7 Assignment,2023-10-11,10:26:40,2023-10-11,10:53:59,0 days 00:27:19,"Domain: School, Type: Writing",Writing,School
+197,F2023,SWE,C15A1,2023-10-11,10:57:19,2023-10-11,11:10:00,0 days 00:12:41,"Domain: School, Type: Coding",Coding,School
+198,F2023,SWE,C15A1,2023-10-12,10:12:37,2023-10-12,11:44:15,0 days 01:31:38,"Domain: School, Type: Coding",Coding,School
+199,F2023,SWE,C15A2,2023-10-12,15:21:33,2023-10-12,16:40:55,0 days 01:19:22,"Domain: School, Type: Coding",Coding,School
+200,F2023,SWE,C15A2,2023-10-13,11:09:02,2023-10-13,11:22:21,0 days 00:13:19,"Domain: School, Type: Coding",Coding,School
+201,F2023,GenAI & Art,Hyperbole and a Half,2023-10-15,15:18:47,2023-10-15,16:43:22,0 days 01:24:35,"Domain: School, Type: Reading",Reading,School
+202,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-15,16:43:58,2023-10-15,17:20:02,0 days 00:36:04,"Domain: School, Type: Writing",Writing,School
+203,F2023,Algorithms,Midterm Study,2023-10-16,12:09:15,2023-10-16,12:49:58,0 days 00:40:43,"Domain: School, Type: Practice",Practice,School
+204,F2023,Algorithms,Midterm Study,2023-10-16,19:40:15,2023-10-16,20:31:39,0 days 00:51:24,"Domain: School, Type: Practice",Practice,School
+205,F2023,Algorithms,Midterm Study,2023-10-17,15:09:15,2023-10-17,15:45:00,0 days 00:35:45,"Domain: School, Type: Practice",Practice,School
+206,F2023,Algorithms,Midterm Study,2023-10-17,15:53:16,2023-10-17,16:31:14,0 days 00:37:58,"Domain: School, Type: Practice",Practice,School
+207,F2023,Algorithms,Midterm Study,2023-10-17,16:31:17,2023-10-17,16:39:42,0 days 00:08:25,"Domain: School, Type: Practice",Practice,School
+208,F2023,Algorithms,Algobowl Postmortem,2023-10-17,17:31:34,2023-10-17,18:00:14,0 days 00:28:40,"Domain: School, Type: Writing",Writing,School
+209,F2023,OS,Midterm Study,2023-10-17,19:03:39,2023-10-17,19:51:15,0 days 00:47:36,"Domain: School, Type: Practice",Practice,School
+210,F2023,SWE,C16A,2023-10-17,20:02:25,2023-10-17,20:57:06,0 days 00:54:41,"Domain: School, Type: Coding",Coding,School
+211,F2023,Algorithms,Midterm Study,2023-10-18,08:50:13,2023-10-18,09:12:36,0 days 00:22:23,"Domain: School, Type: Practice",Practice,School
+212,F2023,SWE,C16A,2023-10-18,10:04:34,2023-10-18,10:04:46,0 days 00:00:12,"Domain: School, Type: Coding",Coding,School
+213,F2023,OS,Midterm Study,2023-10-18,10:05:59,2023-10-18,10:22:52,0 days 00:16:53,"Domain: School, Type: Practice",Practice,School
+214,F2023,Algorithms,Midterm Study,2023-10-18,11:22:28,2023-10-18,11:32:36,0 days 00:10:08,"Domain: School, Type: Practice",Practice,School
+215,F2023,OS,Midterm Study,2023-10-18,15:24:31,2023-10-18,16:07:32,0 days 00:43:01,"Domain: School, Type: Practice",Practice,School
+216,F2023,OS,Midterm Study,2023-10-18,16:17:03,2023-10-18,16:29:51,0 days 00:12:48,"Domain: School, Type: Practice",Practice,School
+217,F2023,Algorithms,Midterm Study,2023-10-18,16:31:16,2023-10-18,16:59:09,0 days 00:27:53,"Domain: School, Type: Practice",Practice,School
+218,F2023,OS,Midterm Study,2023-10-19,08:46:21,2023-10-19,09:10:31,0 days 00:24:10,"Domain: School, Type: Practice",Practice,School
+219,F2023,Algorithms,Midterm Study,2023-10-19,10:13:36,2023-10-19,11:25:40,0 days 01:12:04,"Domain: School, Type: Practice",Practice,School
+220,F2023,Algorithms,Midterm Study,2023-10-20,09:06:53,2023-10-20,09:46:23,0 days 00:39:30,"Domain: School, Type: Practice",Practice,School
+221,,Personal Admin Maintenance,Security Training,2023-10-20,11:01:48,2023-10-20,11:12:03,0 days 00:10:15,"Domain: School, Type: Reading",Reading,School
+222,F2023,Algorithms,Midterm Study,2023-10-20,11:33:58,2023-10-20,11:38:58,0 days 00:05:00,"Domain: School, Type: Practice",Practice,School
+223,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-22,19:17:22,2023-10-22,20:52:03,0 days 01:34:41,"Domain: School, Type: Writing",Writing,School
+224,F2023,Algorithms,Dynamic Programming Pre-Watch,2023-10-23,10:29:17,2023-10-23,10:51:50,0 days 00:22:33,"Domain: School, Type: Reading",Reading,School
+225,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-23,10:55:50,2023-10-23,11:52:35,0 days 00:56:45,"Domain: School, Type: Writing",Writing,School
+226,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-23,14:15:56,2023-10-23,15:39:29,0 days 01:23:33,"Domain: School, Type: Writing",Writing,School
+227,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-23,15:56:05,2023-10-23,17:06:09,0 days 01:10:04,"Domain: School, Type: Writing",Writing,School
+228,F2023,SWE,Midterm Study,2023-10-23,17:50:31,2023-10-23,18:20:44,0 days 00:30:13,"Domain: School, Type: Practice",Practice,School
+229,F2023,SWE,Common Hour Midterm (some class given back),2023-10-23,19:00:00,2023-10-23,19:15:00,0 days 00:15:00,"Domain: School, Type: Assessment",Assessment,School
+230,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-23,20:23:37,2023-10-23,20:54:36,0 days 00:30:59,"Domain: School, Type: Writing",Writing,School
+231,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-24,09:24:38,2023-10-24,10:49:08,0 days 01:24:30,"Domain: School, Type: Writing",Writing,School
+232,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-24,15:38:56,2023-10-24,17:10:32,0 days 01:31:36,"Domain: School, Type: Writing",Writing,School
+233,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-24,19:38:52,2023-10-24,20:35:14,0 days 00:56:22,"Domain: School, Type: Writing",Writing,School
+234,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-24,20:35:00,2023-10-24,20:55:00,0 days 00:20:00,"Domain: School, Type: Writing",Writing,School
+235,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-24,21:01:15,2023-10-24,22:25:34,0 days 01:24:19,"Domain: School, Type: Writing",Writing,School
+236,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-25,08:30:37,2023-10-25,09:05:42,0 days 00:35:05,"Domain: School, Type: Writing",Writing,School
+237,F2023,GenAI & Art,Graphic Novel Sketch,2023-10-25,09:15:00,2023-10-25,09:54:49,0 days 00:39:49,"Domain: School, Type: Writing",Writing,School
+238,F2023,GenAI & Art,Hyperbole and a Half,2023-10-25,10:03:32,2023-10-25,10:34:33,0 days 00:31:01,"Domain: School, Type: Reading",Reading,School
+239,F2023,GenAI & Art,Hyperbole and a Half,2023-10-25,11:00:59,2023-10-25,11:38:24,0 days 00:37:25,"Domain: School, Type: Reading",Reading,School
+240,F2023,OS,P3,2023-10-25,16:37:14,2023-10-25,16:49:54,0 days 00:12:40,"Domain: School, Type: Coding",Coding,School
+241,,Personal Admin Maintenance,Interrupt,2023-10-25,17:00:00,2023-10-25,17:52:00,0 days 00:52:00,"Domain: School, Type: Meeting",Meeting,School
+242,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-26,09:26:00,2023-10-26,10:35:00,0 days 01:09:00,"Domain: School, Type: Writing",Writing,School
+243,F2023,OS,P3,2023-10-26,10:36:10,2023-10-26,11:22:14,0 days 00:46:04,"Domain: School, Type: Coding",Coding,School
+244,,Personal Admin Maintenance,Security Training,2023-10-27,09:39:50,2023-10-27,10:27:21,0 days 00:47:31,"Domain: School, Type: Reading",Reading,School
+245,F2023,OS,HW4,2023-10-27,10:52:20,2023-10-27,11:08:29,0 days 00:16:09,"Domain: School, Type: Practice",Practice,School
+246,F2023,OS,P3,2023-10-27,11:08:32,2023-10-27,11:51:37,0 days 00:43:05,"Domain: School, Type: Coding",Coding,School
+247,F2023,Algorithms,HW7,2023-10-27,15:10:11,2023-10-27,15:35:56,0 days 00:25:45,"Domain: School, Type: Practice",Practice,School
+248,F2023,OS,P3,2023-10-27,15:37:56,2023-10-27,16:46:18,0 days 01:08:22,"Domain: School, Type: Coding",Coding,School
+249,F2023,Algorithms,HW7,2023-10-27,21:15:00,2023-10-27,21:45:00,0 days 00:30:00,"Domain: School, Type: Practice",Practice,School
+250,F2023,OS,P3,2023-10-28,11:18:48,2023-10-28,11:23:35,0 days 00:04:47,"Domain: School, Type: Coding",Coding,School
+251,F2023,OS,P3,2023-10-28,11:26:12,2023-10-28,12:05:10,0 days 00:38:58,"Domain: School, Type: Coding",Coding,School
+252,F2023,OS,P3,2023-10-29,18:43:06,2023-10-29,19:53:41,0 days 01:10:35,"Domain: School, Type: Coding",Coding,School
+253,F2023,OS,P3,2023-10-29,20:07:16,2023-10-29,20:28:42,0 days 00:21:26,"Domain: School, Type: Coding",Coding,School
+254,,Personal Admin Maintenance,Security Training,2023-10-29,20:49:24,2023-10-29,21:06:01,0 days 00:16:37,"Domain: School, Type: Reading",Reading,School
+255,F2023,Algorithms,Optimization Pre-Watch,2023-10-30,10:42:58,2023-10-30,10:54:48,0 days 00:11:50,"Domain: School, Type: Reading",Reading,School
+256,F2023,SWE,C19A-2,2023-10-30,10:55:45,2023-10-30,11:34:14,0 days 00:38:29,"Domain: School, Type: Coding",Coding,School
+257,F2023,GenAI & Art,Here,2023-10-30,14:41:33,2023-10-30,15:47:27,0 days 01:05:54,"Domain: School, Type: Reading",Reading,School
+258,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-30,19:27:56,2023-10-30,19:31:59,0 days 00:04:03,"Domain: School, Type: Writing",Writing,School
+259,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-30,19:40:31,2023-10-30,20:50:52,0 days 01:10:21,"Domain: School, Type: Writing",Writing,School
+260,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-31,09:49:39,2023-10-31,11:47:59,0 days 01:58:20,"Domain: School, Type: Writing",Writing,School
+261,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-10-31,15:56:16,2023-10-31,17:25:30,0 days 01:29:14,"Domain: School, Type: Writing",Writing,School
+262,F2023,SWE,C20A,2023-10-31,18:46:03,2023-10-31,20:10:42,0 days 01:24:39,"Domain: School, Type: Coding",Coding,School
+263,F2023,GenAI & Art,Hyperbole and a Half Critical Essay 3,2023-11-01,09:19:29,2023-11-01,10:40:00,0 days 01:20:31,"Domain: School, Type: Writing",Writing,School
+264,F2023,SWE,C20A,2023-11-01,11:03:01,2023-11-01,11:20:54,0 days 00:17:53,"Domain: School, Type: Coding",Coding,School
+265,F2023,SWE,C21P,2023-11-02,10:42:50,2023-11-02,10:58:45,0 days 00:15:55,"Domain: School, Type: Reading",Reading,School
+266,F2023,Algorithms,HW08,2023-11-02,10:59:02,2023-11-02,11:39:18,0 days 00:40:16,"Domain: School, Type: Practice",Practice,School
+267,F2023,Algorithms,HW08,2023-11-02,12:24:13,2023-11-02,12:30:55,0 days 00:06:42,"Domain: School, Type: Practice",Practice,School
+268,F2023,Algorithms,HW08,2023-11-02,12:39:00,2023-11-02,12:49:02,0 days 00:10:02,"Domain: School, Type: Practice",Practice,School
+269,F2023,SWE,C21A,2023-11-03,11:26:45,2023-11-03,11:50:38,0 days 00:23:53,"Domain: School, Type: Coding",Coding,School
+270,F2023,SWE,C21A,2023-11-03,14:03:24,2023-11-03,14:25:55,0 days 00:22:31,"Domain: School, Type: Coding",Coding,School
+271,F2023,SWE,C21A,2023-11-03,15:13:37,2023-11-03,15:24:14,0 days 00:10:37,"Domain: School, Type: Coding",Coding,School
+272,F2023,Algorithms,HW08,2023-11-04,11:07:45,2023-11-04,11:16:49,0 days 00:09:04,"Domain: School, Type: Practice",Practice,School
+273,F2023,SWE,C21A,2023-11-04,11:17:53,2023-11-04,11:21:16,0 days 00:03:23,"Domain: School, Type: Coding",Coding,School
+274,F2023,SWE,C21A,2023-11-04,11:25:58,2023-11-04,12:07:46,0 days 00:41:48,"Domain: School, Type: Coding",Coding,School
+275,F2023,Algorithms,HW08,2023-11-04,20:18:24,2023-11-04,20:20:03,0 days 00:01:39,"Domain: School, Type: Practice",Practice,School
+276,F2023,Algorithms,HW08,2023-11-04,21:48:48,2023-11-04,22:17:37,0 days 00:28:49,"Domain: School, Type: Practice",Practice,School
+277,F2023,SWE,C21A,2023-11-05,09:23:06,2023-11-05,09:48:48,0 days 00:25:42,"Domain: School, Type: Coding",Coding,School
+278,F2023,Algorithms,Dynamic Programming Part 1,2023-11-05,19:00:28,2023-11-05,19:39:57,0 days 00:39:29,"Domain: School, Type: Coding",Coding,School
+279,F2023,Algorithms,Dynamic Programming Part 1,2023-11-05,19:47:08,2023-11-05,20:12:56,0 days 00:25:48,"Domain: School, Type: Coding",Coding,School
+280,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-05,20:22:29,2023-11-05,21:03:22,0 days 00:40:53,"Domain: School, Type: Research",Research,School
+281,F2023,Algorithms,Dynamic Programming Part 1,2023-11-06,09:35:46,2023-11-06,10:37:37,0 days 01:01:51,"Domain: School, Type: Coding",Coding,School
+282,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-06,10:44:52,2023-11-06,10:47:17,0 days 00:02:25,"Domain: School, Type: Research",Research,School
+283,F2023,OS,HW5,2023-11-06,11:00:57,2023-11-06,11:25:29,0 days 00:24:32,"Domain: School, Type: Practice",Practice,School
+284,F2023,SWE,C22P,2023-11-06,11:30:00,2023-11-06,11:46:00,0 days 00:16:00,"Domain: School, Type: Reading",Reading,School
+285,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-06,14:03:06,2023-11-06,14:14:48,0 days 00:11:42,"Domain: School, Type: Research",Research,School
+286,F2023,SWE,C21A,2023-11-06,14:19:20,2023-11-06,14:41:33,0 days 00:22:13,"Domain: School, Type: Coding",Coding,School
+287,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-06,14:45:48,2023-11-06,14:49:21,0 days 00:03:33,"Domain: School, Type: Research",Research,School
+288,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-06,14:51:41,2023-11-06,15:40:47,0 days 00:49:06,"Domain: School, Type: Research",Research,School
+289,F2023,SWE,C21A,2023-11-06,18:11:21,2023-11-06,18:53:04,0 days 00:41:43,"Domain: School, Type: Coding",Coding,School
+290,F2023,SWE,C21A,2023-11-06,18:57:52,2023-11-06,19:12:23,0 days 00:14:31,"Domain: School, Type: Coding",Coding,School
+291,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-06,19:12:25,2023-11-06,20:25:26,0 days 01:13:01,"Domain: School, Type: Research",Research,School
+292,F2023,Algorithms,Dynamic Programming Part 1,2023-11-07,09:05:08,2023-11-07,10:16:50,0 days 01:11:42,"Domain: School, Type: Coding",Coding,School
+293,F2023,Algorithms,Dynamic Programming Part 1,2023-11-07,10:29:29,2023-11-07,10:40:29,0 days 00:11:00,"Domain: School, Type: Coding",Coding,School
+294,F2023,OS,HW5,2023-11-07,10:48:59,2023-11-07,10:52:09,0 days 00:03:10,"Domain: School, Type: Practice",Practice,School
+295,F2023,OS,HW6,2023-11-07,10:53:38,2023-11-07,11:33:54,0 days 00:40:16,"Domain: School, Type: Practice",Practice,School
+296,F2023,OS,HW6,2023-11-07,11:36:18,2023-11-07,11:44:12,0 days 00:07:54,"Domain: School, Type: Practice",Practice,School
+297,F2023,SWE,C22A-2,2023-11-07,16:10:28,2023-11-07,16:34:27,0 days 00:23:59,"Domain: School, Type: Coding",Coding,School
+298,F2023,SWE,C22A-2,2023-11-07,16:36:23,2023-11-07,16:36:35,0 days 00:00:12,"Domain: School, Type: Coding",Coding,School
+299,F2023,SWE,C22A-2,2023-11-07,16:37:03,2023-11-07,17:01:31,0 days 00:24:28,"Domain: School, Type: Coding",Coding,School
+300,F2023,OS,HW5,2023-11-07,17:14:25,2023-11-07,17:14:56,0 days 00:00:31,"Domain: School, Type: Practice",Practice,School
+301,F2023,Algorithms,HW09,2023-11-07,17:15:15,2023-11-07,17:22:33,0 days 00:07:18,"Domain: School, Type: Practice",Practice,School
+302,F2023,Algorithms,HW09,2023-11-07,17:23:14,2023-11-07,17:26:11,0 days 00:02:57,"Domain: School, Type: Practice",Practice,School
+303,F2023,Algorithms,Dynamic Programming Part 1,2023-11-07,21:15:52,2023-11-07,21:27:26,0 days 00:11:34,"Domain: School, Type: Coding",Coding,School
+304,F2023,Algorithms,Dynamic Programming Part 1,2023-11-08,09:28:38,2023-11-08,10:15:36,0 days 00:46:58,"Domain: School, Type: Coding",Coding,School
+305,F2023,SWE,C22A-1,2023-11-08,10:39:14,2023-11-08,11:06:08,0 days 00:26:54,"Domain: School, Type: Coding",Coding,School
+306,F2023,Algorithms,Dynamic Programming Part 2 Implementation,2023-11-08,11:14:22,2023-11-08,11:46:12,0 days 00:31:50,"Domain: School, Type: Coding",Coding,School
+307,F2023,Algorithms,Dynamic Programming Part 1,2023-11-08,11:58:34,2023-11-08,12:01:35,0 days 00:03:01,"Domain: School, Type: Coding",Coding,School
+308,F2023,GenAI & Art,Graphic Novel Sketch,2023-11-08,13:51:55,2023-11-08,15:22:39,0 days 01:30:44,"Domain: School, Type: Writing",Writing,School
+309,F2023,GenAI & Art,Here Critical Essay 4 Data,2023-11-08,15:22:43,2023-11-08,15:48:49,0 days 00:26:06,"Domain: School, Type: Research",Research,School
+310,F2023,Algorithms,Dynamic Programming Part 1,2023-11-08,17:30:18,2023-11-08,17:36:55,0 days 00:06:37,"Domain: School, Type: Coding",Coding,School
+311,F2023,Algorithms,Dynamic Programming Part 2 Implementation,2023-11-09,09:48:39,2023-11-09,11:02:26,0 days 01:13:47,"Domain: School, Type: Coding",Coding,School
+312,F2023,SWE,C23P,2023-11-09,11:09:00,2023-11-09,11:34:23,0 days 00:25:23,"Domain: School, Type: Reading",Reading,School
+313,F2023,SWE,C22A-1,2023-11-10,11:21:18,2023-11-10,11:26:55,0 days 00:05:37,"Domain: School, Type: Coding",Coding,School
+314,F2023,Algorithms,HW9,2023-11-11,21:00:00,2023-11-11,22:00:00,0 days 01:00:00,"Domain: School, Type: Practice",Practice,School
+315,F2023,Algorithms,Dynamic Programming Part 2 Analysis,2023-11-12,20:18:36,2023-11-12,20:55:25,0 days 00:36:49,"Domain: School, Type: Writing",Writing,School
+316,F2023,OS,P4-D1,2023-11-13,09:41:25,2023-11-13,10:20:19,0 days 00:38:54,"Domain: School, Type: Coding",Coding,School
+317,F2023,OS,P4-D1,2023-11-13,11:28:07,2023-11-13,11:51:11,0 days 00:23:04,"Domain: School, Type: Coding",Coding,School
+318,F2023,OS,P4-D1,2023-11-13,14:24:25,2023-11-13,16:19:36,0 days 01:55:11,"Domain: School, Type: Coding",Coding,School
+319,F2023,Algorithms,Dynamic Programming Part 2 Analysis,2023-11-13,16:20:52,2023-11-13,16:26:36,0 days 00:05:44,"Domain: School, Type: Writing",Writing,School
+320,F2023,Algorithms,Dynamic Programming Part 2 Analysis,2023-11-13,16:42:37,2023-11-13,16:42:38,0 days 00:00:01,"Domain: School, Type: Writing",Writing,School
+321,F2023,OS,P4-D1,2023-11-13,16:42:39,2023-11-13,17:25:50,0 days 00:43:11,"Domain: School, Type: Coding",Coding,School
+322,F2023,OS,P4-D1,2023-11-13,18:39:07,2023-11-13,18:43:26,0 days 00:04:19,"Domain: School, Type: Coding",Coding,School
+323,F2023,OS,HW6,2023-11-13,18:47:18,2023-11-13,19:53:52,0 days 01:06:34,"Domain: School, Type: Practice",Practice,School
+324,F2023,SWE,C23A,2023-11-13,19:54:23,2023-11-13,20:53:04,0 days 00:58:41,"Domain: School, Type: Coding",Coding,School
+325,F2023,SWE,C24P,2023-11-14,09:46:17,2023-11-14,10:08:12,0 days 00:21:55,"Domain: School, Type: Reading",Reading,School
+326,F2023,Algorithms,Dynammic Programming Part 3 Implementation,2023-11-14,10:10:42,2023-11-14,10:10:51,0 days 00:00:09,"Domain: School, Type: Coding",Coding,School
+327,F2023,Algorithms,Dynammic Programming Part 3 Implementation,2023-11-14,10:18:22,2023-11-14,11:45:53,0 days 01:27:31,"Domain: School, Type: Coding",Coding,School
+328,F2023,SWE,C23A,2023-11-14,16:05:13,2023-11-14,16:37:14,0 days 00:32:01,"Domain: School, Type: Coding",Coding,School
+329,F2023,OS,HW6,2023-11-14,16:38:17,2023-11-14,17:04:35,0 days 00:26:18,"Domain: School, Type: Practice",Practice,School
+330,F2023,OS,P4-D2,2023-11-14,18:09:11,2023-11-14,18:10:22,0 days 00:01:11,"Domain: School, Type: Coding",Coding,School
+331,F2023,OS,P4-D2,2023-11-14,18:17:32,2023-11-14,20:29:43,0 days 02:12:11,"Domain: School, Type: Coding",Coding,School
+332,F2023,Algorithms,Dynammic Programming Part 3 Implementation,2023-11-14,20:29:48,2023-11-14,20:34:33,0 days 00:04:45,"Domain: School, Type: Coding",Coding,School
+333,F2023,OS,P4-D2,2023-11-14,22:28:59,2023-11-14,22:58:55,0 days 00:29:56,"Domain: School, Type: Coding",Coding,School
+334,F2023,OS,P4-D2,2023-11-15,08:43:20,2023-11-15,08:52:12,0 days 00:08:52,"Domain: School, Type: Coding",Coding,School
+335,F2023,GenAI & Art,Choice Graphic Novel Presentation,2023-11-15,09:05:59,2023-11-15,09:55:55,0 days 00:49:56,"Domain: School, Type: Writing",Writing,School
+336,F2023,GenAI & Art,Graphic Novel k = 1 (trust),2023-11-15,09:58:21,2023-11-15,11:00:50,0 days 01:02:29,"Domain: School, Type: Writing",Writing,School
+337,F2023,Algorithms,HW9,2023-11-15,13:52:32,2023-11-15,14:07:55,0 days 00:15:23,"Domain: School, Type: Practice",Practice,School
+338,F2023,SWE,C23A,2023-11-15,14:51:16,2023-11-15,15:07:32,0 days 00:16:16,"Domain: School, Type: Coding",Coding,School
+339,F2023,SWE,C25P,2023-11-16,11:27:24,2023-11-16,11:34:09,0 days 00:06:45,"Domain: School, Type: Writing",Writing,School
+340,F2023,SWE,C24A,2023-11-16,16:43:01,2023-11-16,16:50:33,0 days 00:07:32,"Domain: School, Type: Coding",Coding,School
+341,F2023,SWE,C24A,2023-11-16,16:53:43,2023-11-16,17:06:46,0 days 00:13:03,"Domain: School, Type: Coding",Coding,School
+342,F2023,SWE,C24A,2023-11-16,17:13:44,2023-11-16,17:22:40,0 days 00:08:56,"Domain: School, Type: Coding",Coding,School
+343,F2023,SWE,C24A,2023-11-16,17:25:22,2023-11-16,17:52:25,0 days 00:27:03,"Domain: School, Type: Coding",Coding,School
+344,F2023,SWE,C24A,2023-11-16,18:47:30,2023-11-16,19:53:46,0 days 01:06:16,"Domain: School, Type: Coding",Coding,School
+345,F2023,SWE,C24A,2023-11-16,20:25:19,2023-11-16,20:44:34,0 days 00:19:15,"Domain: School, Type: Coding",Coding,School
+346,F2023,SWE,C24A,2023-11-17,09:39:27,2023-11-17,11:22:06,0 days 01:42:39,"Domain: School, Type: Coding",Coding,School
+347,F2023,SWE,C24A,2023-11-17,11:23:05,2023-11-17,11:26:02,0 days 00:02:57,"Domain: School, Type: Coding",Coding,School
+348,F2023,Algorithms,HW9,2023-11-17,11:54:05,2023-11-17,12:02:00,0 days 00:07:55,"Domain: School, Type: Practice",Practice,School
+349,F2023,Algorithms,HW9,2023-11-17,17:41:36,2023-11-17,17:49:32,0 days 00:07:56,"Domain: School, Type: Practice",Practice,School
+350,F2023,SWE,C24A,2023-11-18,13:15:03,2023-11-18,13:44:04,0 days 00:29:01,"Domain: School, Type: Coding",Coding,School
+351,F2023,GenAI & Art,Graphic Novel k = 1 (trust),2023-11-20,09:18:32,2023-11-20,10:27:49,0 days 01:09:17,"Domain: School, Type: Writing",Writing,School
+352,F2023,GenAI & Art,Graphic Novel k = 1 (trust),2023-11-20,10:43:29,2023-11-20,10:57:59,0 days 00:14:30,"Domain: School, Type: Writing",Writing,School
+353,F2023,GenAI & Art,Graphic Novel k = 1 (subvert),2023-11-20,14:23:44,2023-11-20,15:33:48,0 days 01:10:04,"Domain: School, Type: Writing",Writing,School
+354,F2023,GenAI & Art,Graphic Novel k = 1 (subvert),2023-11-20,16:28:23,2023-11-20,16:56:16,0 days 00:27:53,"Domain: School, Type: Writing",Writing,School
+355,F2023,GenAI & Art,Graphic Novel k = n,2023-11-20,20:11:00,2023-11-20,21:05:50,0 days 00:54:50,"Domain: School, Type: Writing",Writing,School
+356,F2023,SWE,C24A,2023-11-21,09:25:00,2023-11-21,10:14:28,0 days 00:49:28,"Domain: School, Type: Coding",Coding,School
+357,F2023,SWE,C24A,2023-11-21,10:18:02,2023-11-21,11:10:06,0 days 00:52:04,"Domain: School, Type: Coding",Coding,School
+358,F2023,GenAI & Art,Graphic Novel k = n,2023-11-26,19:03:03,2023-11-26,19:36:56,0 days 00:33:53,"Domain: School, Type: Writing",Writing,School
+359,F2023,GenAI & Art,Graphic Novel k = n,2023-11-26,19:40:42,2023-11-26,20:29:08,0 days 00:48:26,"Domain: School, Type: Writing",Writing,School
+360,F2023,SWE,C24A,2023-11-27,11:07:09,2023-11-27,11:07:13,0 days 00:00:04,"Domain: School, Type: Coding",Coding,School
+361,F2023,SWE,C26A,2023-11-27,11:07:35,2023-11-27,11:14:47,0 days 00:07:12,"Domain: School, Type: Coding",Coding,School
+362,F2023,Algorithms,HW10,2023-11-27,14:49:33,2023-11-27,14:50:28,0 days 00:00:55,"Domain: School, Type: Practice",Practice,School
+363,F2023,Algorithms,HW10,2023-11-27,14:53:01,2023-11-27,15:17:29,0 days 00:24:28,"Domain: School, Type: Practice",Practice,School
+364,F2023,SWE,C26A,2023-11-27,15:18:45,2023-11-27,16:18:23,0 days 00:59:38,"Domain: School, Type: Coding",Coding,School
+365,F2023,SWE,C26A,2023-11-27,16:19:02,2023-11-27,17:03:51,0 days 00:44:49,"Domain: School, Type: Coding",Coding,School
+366,F2023,SWE,C26A,2023-11-27,18:47:12,2023-11-27,20:15:10,0 days 01:27:58,"Domain: School, Type: Coding",Coding,School
+367,F2023,SWE,C28P,2023-11-27,20:41:30,2023-11-27,21:02:00,0 days 00:20:30,"Domain: School, Type: Reading",Reading,School
+368,F2023,SWE,C26A,2023-11-27,21:02:01,2023-11-27,21:36:14,0 days 00:34:13,"Domain: School, Type: Coding",Coding,School
+369,F2023,SWE,C26A,2023-11-27,21:46:45,2023-11-27,21:51:47,0 days 00:05:02,"Domain: School, Type: Coding",Coding,School
+370,F2023,SWE,C26A,2023-11-27,21:58:51,2023-11-27,22:15:37,0 days 00:16:46,"Domain: School, Type: Coding",Coding,School
+371,F2023,SWE,C26A,2023-11-28,09:00:28,2023-11-28,10:05:07,0 days 01:04:39,"Domain: School, Type: Coding",Coding,School
+372,F2023,OS,Course Evaluation,2023-11-28,10:08:50,2023-11-28,10:26:23,0 days 00:17:33,"Domain: School, Type: Writing",Writing,School
+373,F2023,SWE,Course Evaluation,2023-11-28,10:26:37,2023-11-28,10:43:41,0 days 00:17:04,"Domain: School, Type: Writing",Writing,School
+374,F2023,SWE,C28A-1,2023-11-28,14:55:19,2023-11-28,16:04:43,0 days 01:09:24,"Domain: School, Type: Coding",Coding,School
+375,F2023,OS,P5,2023-11-28,18:59:06,2023-11-28,20:00:41,0 days 01:01:35,"Domain: School, Type: Coding",Coding,School
+376,F2023,OS,P5,2023-11-28,20:02:16,2023-11-28,20:44:52,0 days 00:42:36,"Domain: School, Type: Coding",Coding,School
+377,F2023,SWE,C26A,2023-11-29,08:50:31,2023-11-29,09:01:26,0 days 00:10:55,"Domain: School, Type: Coding",Coding,School
+378,F2023,OS,P5,2023-11-29,09:01:28,2023-11-29,10:11:42,0 days 01:10:14,"Domain: School, Type: Coding",Coding,School
+379,F2023,OS,P5,2023-11-29,10:12:00,2023-11-29,11:19:43,0 days 01:07:43,"Domain: School, Type: Coding",Coding,School
+380,F2023,OS,P5,2023-11-29,14:01:38,2023-11-29,14:34:29,0 days 00:32:51,"Domain: School, Type: Coding",Coding,School
+381,F2023,SWE,C29P,2023-11-29,14:46:21,2023-11-29,15:00:59,0 days 00:14:38,"Domain: School, Type: Reading",Reading,School
+382,F2023,SWE,C29A,2023-11-29,15:03:39,2023-11-29,16:01:01,0 days 00:57:22,"Domain: School, Type: Writing",Writing,School
+383,F2023,OS,HW7,2023-11-30,11:11:40,2023-11-30,11:52:30,0 days 00:40:50,"Domain: School, Type: Practice",Practice,School
