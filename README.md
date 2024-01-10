@@ -14,7 +14,7 @@
 * Full dataset (broken down by individual time entries)
   * S2023.csv, F2023.csv
 * Class Information (to join with .csv where Project == Toggl Name)
- * ClassInfo.csv
+  * ClassInfo.csv
 
  **Classes included in datasets**
  * Operating Systems (CSCI442) - F2023
