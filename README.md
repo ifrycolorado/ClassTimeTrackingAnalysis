@@ -1,5 +1,6 @@
 # Available Data
 
+**Reports and Charts**
 * Toggl Reports for each class
   * S2023, F2023
 * Toggl Reports for entire semesters
@@ -8,8 +9,22 @@
   * F2023
 * Time usage per day week
   * F2023
+ 
+**Datasets**
 * Full dataset, including each individual assignment and each time entry
   * S2023, F2023
+
+ **Classes included in datasets**
+ * Operating Systems (CSCI442) - F2023
+ * Software Engineering (CSCI306) - F2023
+ * Algorithms (CSCI406) - F2023
+ * Generative AI and Graphic Novels (HNRS435A) - F2023
+ * Chemistry I (CHGN121) - S2023
+ * Computer Organization (CSCI341) - S2023
+ * Database Management (CSCI403) - S2023
+ * Music Technology (HASS327) - S2023
+ * Explorations in Modern World - S2023
+ 
 
 # How I Track my Time
 
