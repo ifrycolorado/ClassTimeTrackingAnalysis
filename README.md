@@ -1,9 +1,7 @@
 # Available Data
 
 **Reports and Charts**
-* Toggl Reports for each class
-  * S2023, F2023
-* Toggl Reports for entire semesters
+* Toggl Reports for entire semesters (broken down by assignment)
   * S2023, F2023
 * Time usage per type of work
   * F2023
