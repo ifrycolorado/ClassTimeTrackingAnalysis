@@ -1,0 +1,29 @@
+COURSE: Operating Systems (CSCI442)
+Coding: 32.36 hours (77.31%)
+Practice: 9.20 hours (21.99%)
+Writing: 0.29 hours (0.70%)
+TOTAL TIME : 41.86 hours
+
+COURSE: Generative AI and Artificial Intelligence (HNRS435A)
+Writing: 53.14 hours (76.28%)
+Reading: 12.75 hours (18.30%)
+Research: 3.45 hours (4.95%)
+Implementing: 0.33 hours (0.47%)
+TOTAL TIME : 69.66 hours
+
+COURSE: Software Engineering (CSCI306)
+Coding: 39.51 hours (70.57%)
+Reading: 9.86 hours (17.61%)
+Writing: 3.76 hours (6.71%)
+Implementing: 2.06 hours (3.68%)
+Practice: 0.50 hours (0.90%)
+Assessment: 0.30 hours (0.53%)
+TOTAL TIME : 55.98 hours
+
+COURSE: Algorithms (CSCI406)
+Practice: 25.46 hours (45.79%)
+Coding: 24.03 hours (43.23%)
+Writing: 4.64 hours (8.35%)
+Reading: 1.47 hours (2.64%)
+TOTAL TIME : 55.60 hours
+
