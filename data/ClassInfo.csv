@@ -2,4 +2,9 @@ Semester,Year,Professor,Department Code,Department Number,Class Name,Toggl Name
 Fall,2023,Mehmet Belviranli,CSCI,442,Operating Systems,OS
 Fall,2023,Dinesh Mehta,CSCI,406,Algorithms,Algorithms
 Fall,2023,Kathleen Kelly,CSCI,306,Software Engineering,SWE
-Fall,2023,"Lincoln Carr,Courtney Halls",HNRS,435A,Generative AI and Artificial Intelligence,GenAI & Art
+Fall,2023,"Lincoln Carr,Courtney Halls",HNRS,435A,Generative AI and Graphic Novels,GenAI & Art
+Spring,2023,Renee Falconer,CHGN,121,Principles of Chemistry I,Chemistry 1
+Spring,2023,Qi Han,CSCI,341,Computer Organization,Computer Organization
+Spring,2023,Amelia Read,CSCI,403,Database Management,Database Management
+Spring,2023,Melanie Brandt,HNRS,315,Explorations in Modern World,ExpModernWorld
+Spring,2023,Jonathan Cullison,HASS,327,Music Technology,Music Technology
