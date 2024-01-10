@@ -1,8 +1,10 @@
 # Available Data
 
-**Reports and Charts**
+**Reports**
 * Toggl Reports for entire semesters (broken down by assignment)
   * S2023, F2023
+ 
+**Charts**
 * Time usage per type of work
   * F2023
 * Time usage per day week
@@ -10,7 +12,7 @@
  
 **Datasets**
 * Full dataset (broken down by individual time entries)
-  * S2023, F2023
+  * S2023.csv, F2023.csv
 
  **Classes included in datasets**
  * Operating Systems (CSCI442) - F2023
@@ -22,7 +24,8 @@
  * Database Management (CSCI403) - S2023
  * Music Technology (HASS327) - S2023
  * Explorations in Modern World - S2023
- 
+
+--
 
 # How I Track my Time
 
