@@ -1,15 +1,15 @@
 # Available Data
 
 * Toggl Reports for each class
- * S2023, F2023
+  * S2023, F2023
 * Toggl Reports for entire semesters
- * S2023, F2023
+  * S2023, F2023
 * Time usage per type of work
- * F2023
+  * F2023
 * Time usage per day week
- * F2023
+  * F2023
 * Full dataset, including each individual assignment and each time entry
- * S2023, F2023
+  * S2023, F2023
 
 # How I Track my Time
 
