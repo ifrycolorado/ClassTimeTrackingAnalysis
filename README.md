@@ -19,7 +19,7 @@
  * Software Engineering (CSCI306) - F2023
  * Algorithms (CSCI406) - F2023
  * Generative AI and Graphic Novels (HNRS435A) - F2023
- * Chemistry I (CHGN121) - S2023
+ * Principles of Chemistry I (CHGN121) - S2023
  * Computer Organization (CSCI341) - S2023
  * Database Management (CSCI403) - S2023
  * Music Technology (HASS327) - S2023
