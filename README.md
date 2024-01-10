@@ -2,7 +2,7 @@
 
 **Reports (start here)**
 * Toggl Reports for entire semesters (broken down by assignment)
-  * [S2023](/data/S2023.csv), [F2023](data/F2023.csv)
+  * [S2023](reports/S2023_Toggl.csv), [F2023](erports/F2023_Toggl.csv)
  
 **Charts**
 * Time usage per type of work
@@ -12,7 +12,7 @@
  
 **Datasets**
 * Full dataset (broken down by individual time entries)
-  * [S2023.csv](S2023.csv), [F2023.csv](F2023.csv)
+  * [S2023.csv](data/S2023.csv), [F2023.csv](data/F2023.csv)
 * Class Information (to join with .csv where Project == Toggl Name)
   * [ClassInfo.csv](data/ClassInfo.csv)
 
