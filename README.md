@@ -25,8 +25,6 @@
  * Music Technology (HASS327) - S2023
  * Explorations in Modern World - S2023
 
---
-
 # How I Track my Time
 
 Since Spring of 2023, I have tracked my out-of-class time (i.e. everything except lectures) spent for each course I've taken. All of this was done through Toggl, which was free and intuitive. Each course was designated as its own project, and each assignment was tracked individually. 
