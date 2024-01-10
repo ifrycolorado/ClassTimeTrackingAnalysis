@@ -2,7 +2,7 @@
 
 **Reports (start here)**
 * Toggl Reports for entire semesters (broken down by assignment)
-  * [S2023](reports/S2023_Toggl.csv), [F2023](erports/F2023_Toggl.csv)
+  * [S2023](reports/S2023_Toggl.pdf), [F2023](erports/F2023_Toggl.pdf)
  
 **Charts**
 * Time usage per type of work
