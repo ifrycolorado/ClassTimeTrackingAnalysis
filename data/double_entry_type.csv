@@ -1,6 +1,7 @@
 ,Client,Project,Description,Start date,Start time,End date,End time,Duration,Tags,Type,Domain
-17,F2023,OS,P1-D1,2023-08-28,09:52:26,2023-08-28,10:51:01,0 days 00:58:35,"Domain: School, Type: Coding, Type: Implementing",Coding,School
-31,F2023,Algorithms,Maze Project - Design,2023-08-30,09:45:18,2023-08-30,10:01:58,0 days 00:16:40,"Domain: School, Type: Practice, Type: Writing",Writing,School
-57,F2023,Algorithms,Maze Project - Design,2023-09-06,16:02:55,2023-09-06,16:10:32,0 days 00:07:37,"Domain: School, Type: Practice, Type: Writing",Writing,School
-62,F2023,Algorithms,Maze Project - Design,2023-09-08,09:59:38,2023-09-08,11:12:26,0 days 01:12:48,"Domain: School, Type: Practice, Type: Writing",Writing,School
-65,F2023,Algorithms,Maze Project - Design,2023-09-08,15:21:47,2023-09-08,17:01:23,0 days 01:39:36,"Domain: School, Type: Practice, Type: Writing",Writing,School
+2,F2023,SWE,Syllabus,2023-08-20,14:00:09,2023-08-20,14:11:34,0 days 00:11:25,"Domain: School, Type: Implementing, Type: Reading",Implementing,School
+20,F2023,OS,P1-D1,2023-08-28,09:52:26,2023-08-28,10:51:01,0 days 00:58:35,"Domain: School, Type: Coding, Type: Implementing",Coding,School
+34,F2023,Algorithms,Maze Project - Design,2023-08-30,09:45:18,2023-08-30,10:01:58,0 days 00:16:40,"Domain: School, Type: Practice, Type: Writing",Coding,School
+60,F2023,Algorithms,Maze Project - Design,2023-09-06,16:02:55,2023-09-06,16:10:32,0 days 00:07:37,"Domain: School, Type: Practice, Type: Writing",Coding,School
+65,F2023,Algorithms,Maze Project - Design,2023-09-08,09:59:38,2023-09-08,11:12:26,0 days 01:12:48,"Domain: School, Type: Practice, Type: Writing",Coding,School
+68,F2023,Algorithms,Maze Project - Design,2023-09-08,15:21:47,2023-09-08,17:01:23,0 days 01:39:36,"Domain: School, Type: Practice, Type: Writing",Coding,School
