@@ -1,20 +1,20 @@
 # Available Data
 
-**Reports**
+**Reports (start here)**
 * Toggl Reports for entire semesters (broken down by assignment)
-  * S2023, F2023
+  * [S2023](data/S2023.csv), [F2023](data/F2023.csv)
  
 **Charts**
 * Time usage per type of work
-  * F2023
+  * F2023, Operating Systems, Software Engineering, Algorithms, Generative AI and Graphic Novels
 * Time usage per day week
   * F2023
  
 **Datasets**
 * Full dataset (broken down by individual time entries)
-  * S2023.csv, F2023.csv
+  * [S2023.csv](S2023.csv), [F2023.csv](F2023.csv)
 * Class Information (to join with .csv where Project == Toggl Name)
-  * ClassInfo.csv
+  * [ClassInfo.csv](data/ClassInfo.csv)
 
  **Classes included in datasets**
  * Operating Systems (CSCI442) - F2023
@@ -29,7 +29,7 @@
 
 # How I Track my Time
 
-Since Spring of 2023, I have tracked my out-of-class time (i.e. everything except lectures) spent for each course I've taken. All of this was done through Toggl, which was free and intuitive. Each course was designated as its own project, and each assignment was tracked individually. 
+Since Spring of 2023, I have tracked my out-of-class time (i.e. everything except lectures) spent for each course I've taken. All of this was done through [Toggl](https://track.toggl.com/timer), which is free and intuitive. Each course was designated as its own project, and each assignment was tracked individually. 
 
 In Fall of 2023, I added tags that specified the type of work being done for a specific assignment.
 
