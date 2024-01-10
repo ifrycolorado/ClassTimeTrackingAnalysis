@@ -9,7 +9,7 @@
   * F2023
  
 **Datasets**
-* Full dataset, including each individual assignment and each time entry
+* Full dataset (broken down by individual time entries)
   * S2023, F2023
 
  **Classes included in datasets**
