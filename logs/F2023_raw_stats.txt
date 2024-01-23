@@ -4,12 +4,22 @@ Practice: 9.20 hours (21.99%)
 Writing: 0.29 hours (0.70%)
 TOTAL TIME : 41.86 hours
 
+COURSE: Operating Systems (CSCI442) F2023
+TOTAL TIME : 41.86 hours
+HOURS PER WEEK : 2.62 hours
+HOURS PER CREDIT PER WEEK : 0.87 hours
+
 COURSE: Generative AI and Graphic Novels (HNRS435A) F2023
 Writing: 53.14 hours (76.28%)
 Reading: 12.75 hours (18.30%)
 Research: 3.45 hours (4.95%)
 Implementing: 0.33 hours (0.47%)
 TOTAL TIME : 69.66 hours
+
+COURSE: Generative AI and Graphic Novels (HNRS435A) F2023
+TOTAL TIME : 69.66 hours
+HOURS PER WEEK : 4.35 hours
+HOURS PER CREDIT PER WEEK : 1.45 hours
 
 COURSE: Software Engineering (CSCI306) F2023
 Coding: 39.51 hours (70.57%)
@@ -20,10 +30,20 @@ Practice: 0.50 hours (0.90%)
 Assessment: 0.30 hours (0.53%)
 TOTAL TIME : 55.98 hours
 
+COURSE: Software Engineering (CSCI306) F2023
+TOTAL TIME : 55.98 hours
+HOURS PER WEEK : 3.50 hours
+HOURS PER CREDIT PER WEEK : 1.17 hours
+
 COURSE: Algorithms (CSCI406) F2023
 Practice: 25.46 hours (45.79%)
 Coding: 24.03 hours (43.23%)
 Writing: 4.64 hours (8.35%)
 Reading: 1.47 hours (2.64%)
 TOTAL TIME : 55.60 hours
+
+COURSE: Algorithms (CSCI406) F2023
+TOTAL TIME : 55.60 hours
+HOURS PER WEEK : 3.47 hours
+HOURS PER CREDIT PER WEEK : 1.16 hours
 
