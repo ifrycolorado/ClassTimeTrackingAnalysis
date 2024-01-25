@@ -4,15 +4,15 @@
 * Toggl Reports for entire semesters (broken down by assignment)
   * [S2023](reports/S2023_Toggl.pdf), [F2023](reports/F2023_Toggl.pdf)
 * Toggl Reports for individual classes
- * [Operating Systems (CSCI442) - F2023](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)
- * [Software Engineering (CSCI306) - F2023](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)
- * [Algorithms (CSCI406) - F2023](reports/ALGORITHMS_CSCI406_F2023.pdf)
- * [Generative AI and Graphic Novels (HNRS435A) - F2023](reports/GENAI-ART_HNRS435A_F2023.pdf)
- * [Principles of Chemistry I (CHGN121) - S2023](reports/CHEMISTRY-I_CHGN121_S2023.pdf)
- * [Computer Organization (CSCI341) - S2023](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)
- * [Database Management (CSCI403) - S2023](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)
- * [Music Technology (HASS327) - S2023](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)
- * [Explorations in Modern World - S2023](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)
+  * [Operating Systems (CSCI442) - F2023](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)
+  * [Software Engineering (CSCI306) - F2023](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)
+  * [Algorithms (CSCI406) - F2023](reports/ALGORITHMS_CSCI406_F2023.pdf)
+  * [Generative AI and Graphic Novels (HNRS435A) - F2023](reports/GENAI-ART_HNRS435A_F2023.pdf)
+  * [Principles of Chemistry I (CHGN121) - S2023](reports/CHEMISTRY-I_CHGN121_S2023.pdf)
+  * [Computer Organization (CSCI341) - S2023](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)
+  * [Database Management (CSCI403) - S2023](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)
+  * [Music Technology (HASS327) - S2023](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)
+  * [Explorations in Modern World - S2023](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)
  
 **Charts**
 * Time usage per type of work
