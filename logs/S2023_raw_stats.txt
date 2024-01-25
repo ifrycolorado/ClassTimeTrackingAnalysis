@@ -1,45 +1,20 @@
-COURSE: Database Management (CSCI403) S2023
-Not Specified: 33.57 hours (100.00%)
-TOTAL TIME : 33.57 hours
-
-COURSE: Database Management (CSCI403) S2023
-TOTAL TIME : 33.57 hours
-HOURS PER WEEK : 2.10 hours
-HOURS PER CREDIT PER WEEK : 0.70 hours
-
 COURSE: Computer Organization (CSCI341) S2023
 Not Specified: 29.20 hours (100.00%)
 TOTAL TIME : 29.20 hours
-
-COURSE: Computer Organization (CSCI341) S2023
-TOTAL TIME : 29.20 hours
-HOURS PER WEEK : 1.83 hours
-HOURS PER CREDIT PER WEEK : 0.61 hours
 
 COURSE: Explorations in Modern World (HNRS315) S2023
 Not Specified: 47.41 hours (100.00%)
 TOTAL TIME : 47.41 hours
 
-COURSE: Explorations in Modern World (HNRS315) S2023
-TOTAL TIME : 47.41 hours
-HOURS PER WEEK : 2.96 hours
-HOURS PER CREDIT PER WEEK : 0.99 hours
-
 COURSE: Principles of Chemistry I (CHGN121) S2023
 Not Specified: 33.67 hours (100.00%)
 TOTAL TIME : 33.67 hours
 
-COURSE: Principles of Chemistry I (CHGN121) S2023
-TOTAL TIME : 33.67 hours
-HOURS PER WEEK : 2.10 hours
-HOURS PER CREDIT PER WEEK : 0.70 hours
+COURSE: Database Management (CSCI403) S2023
+Not Specified: 33.57 hours (100.00%)
+TOTAL TIME : 33.57 hours
 
 COURSE: Music Technology (HASS327) S2023
 Not Specified: 33.79 hours (100.00%)
 TOTAL TIME : 33.79 hours
-
-COURSE: Music Technology (HASS327) S2023
-TOTAL TIME : 33.79 hours
-HOURS PER WEEK : 2.11 hours
-HOURS PER CREDIT PER WEEK : 0.70 hours
 
