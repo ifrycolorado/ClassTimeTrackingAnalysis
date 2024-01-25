@@ -12,7 +12,7 @@
   * [Computer Organization (CSCI341) - S2023](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)
   * [Database Management (CSCI403) - S2023](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)
   * [Music Technology (HASS327) - S2023](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)
-  * [Explorations in Modern World - S2023](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)
+  * [Explorations in Modern World (HNRS315) - S2023](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)
  
 **Charts**
 * Time usage per type of work
