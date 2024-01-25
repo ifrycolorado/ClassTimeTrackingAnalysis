@@ -4,16 +4,19 @@
 * Toggl Reports for entire semesters (broken down by assignment)
   * [S2023](reports/S2023_Toggl.pdf), [F2023](reports/F2023_Toggl.pdf)
 * Toggl Reports for individual classes (shows time usage over course of semester)
-  * [Operating Systems (CSCI442) - F2023](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)
-  * [Software Engineering (CSCI306) - F2023](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)
-  * [Algorithms (CSCI406) - F2023](reports/ALGORITHMS_CSCI406_F2023.pdf)
-  * [Generative AI and Graphic Novels (HNRS435A) - F2023](reports/GENAI-ART_HNRS435A_F2023.pdf)
-  * [Principles of Chemistry I (CHGN121) - S2023](reports/CHEMISTRY-I_CHGN121_S2023.pdf)
-  * [Computer Organization (CSCI341) - S2023](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)
-  * [Database Management (CSCI403) - S2023](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)
-  * [Music Technology (HASS327) - S2023](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)
-  * [Explorations in Modern World (HNRS315) - S2023](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)
- 
+  | Course Name                         | Department | Code   | Semester |
+  |-------------------------------------|------------|--------|----------|
+  | [Software Engineering](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)                | CSCI       | 306    | F2023    |
+  | [Computer Organization](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)               | CSCI       | 341    | S2023    |
+  | [Database Management](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)                 | CSCI       | 403    | S2023    |
+  | [Algorithms](reports/ALGORITHMS_CSCI406_F2023.pdf)                          | CSCI       | 406    | F2023    |
+  | [Operating Systems](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)                   | CSCI       | 442    | F2023    |
+  | [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf)           | CHGN       | 121    | S2023    |
+  | [Music Technology](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)                    | HASS       | 327    | S2023    |
+  | [Explorations in Modern World](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)        | HNRS       | 315    | S2023    |
+  | [Generative AI and Graphic Novels](reports/GENAI-ART_HNRS435A_F2023.pdf)    | HNRS       | 435A   | F2023    |
+
+
 **Charts**
 * Time usage per type of work
   * F2023, Operating Systems, Software Engineering, Algorithms, Generative AI and Graphic Novels
@@ -25,19 +28,6 @@
   * [S2023.csv](data/S2023.csv), [F2023.csv](data/F2023.csv)
 * Class Information (to join with .csv where Project == Toggl Name)
   * [ClassInfo.csv](data/ClassInfo.csv)
-
- **Classes included in datasets**
-| Course Name                         | Department | Code   | Semester |
-|-------------------------------------|------------|--------|----------|
-| Operating Systems                   | CSCI       | 442    | F2023    |
-| Software Engineering                | CSCI       | 306    | F2023    |
-| Algorithms                          | CSCI       | 406    | F2023    |
-| Computer Organization               | CSCI       | 341    | S2023    |
-| Database Management                 | CSCI       | 403    | S2023    |
-| Principles of Chemistry I           | CHGN       | 121    | S2023    |
-| Music Technology                    | HASS       | 327    | S2023    |
-| Explorations in Modern World        | HNRS       | 315    | S2023    |
-| Generative AI and Graphic Novels    | HNRS       | 435A   | F2023    |
 
 # How I Track my Time
 
