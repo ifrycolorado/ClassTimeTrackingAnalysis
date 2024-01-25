@@ -2,8 +2,21 @@
 
 **Reports (start here)**
 * Toggl Reports for entire semesters (broken down by assignment)
-  * [S2023](reports/S2023_Toggl.pdf), [F2023](erports/F2023_Toggl.pdf)
- 
+  * [S2023](reports/S2023_Toggl.pdf), [F2023](reports/F2023_Toggl.pdf)
+* Toggl Reports for individual classes (shows time usage over course of semester)
+  | Course Name                         | Department | Code   | Semester |
+  |-------------------------------------|------------|--------|----------|
+  | [Software Engineering](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)                | CSCI       | 306    | F2023    |
+  | [Computer Organization](reports/COMPUTER-ORGANIZATION_CSCI341_S2023.pdf)               | CSCI       | 341    | S2023    |
+  | [Database Management](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)                 | CSCI       | 403    | S2023    |
+  | [Algorithms](reports/ALGORITHMS_CSCI406_F2023.pdf)                          | CSCI       | 406    | F2023    |
+  | [Operating Systems](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)                   | CSCI       | 442    | F2023    |
+  | [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf)           | CHGN       | 121    | S2023    |
+  | [Music Technology](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)                    | HASS       | 327    | S2023    |
+  | [Explorations in Modern World](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)        | HNRS       | 315    | S2023    |
+  | [Generative AI and Graphic Novels](reports/GENAI-ART_HNRS435A_F2023.pdf)    | HNRS       | 435A   | F2023    |
+
+
 **Charts**
 * Time usage per type of work
   * F2023, Operating Systems, Software Engineering, Algorithms, Generative AI and Graphic Novels
@@ -15,17 +28,6 @@
   * [S2023.csv](data/S2023.csv), [F2023.csv](data/F2023.csv)
 * Class Information (to join with .csv where Project == Toggl Name)
   * [ClassInfo.csv](data/ClassInfo.csv)
-
- **Classes included in datasets**
- * Operating Systems (CSCI442) - F2023
- * Software Engineering (CSCI306) - F2023
- * Algorithms (CSCI406) - F2023
- * Generative AI and Graphic Novels (HNRS435A) - F2023
- * Principles of Chemistry I (CHGN121) - S2023
- * Computer Organization (CSCI341) - S2023
- * Database Management (CSCI403) - S2023
- * Music Technology (HASS327) - S2023
- * Explorations in Modern World - S2023
 
 # How I Track my Time
 
@@ -64,7 +66,7 @@ There's a few reasons why I track the time I spend on classes:
 ### 2. Tracking time allows me to compare relative difficulty between classes and between assignments
 > If an asignment is taking longer than I would expect, it forces me to analyze how I could more effectively be using time. Perhaps this is taking a break if I haven't made progress in the last 30 minutes. Or, perhaps this means I need to change how I'm using my time. Furthermore, if a class is taking a signficiantly longer amount of time than other classes, that's a cause for concern. 
 ### 3. Tracking classes keeps me (and professors) accountable
-> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Really? ALL day? Complaints towards class time commitments can be hyperbolic and can force unncessary concessions from professors and creates a negative student culture. Tracking my own time allows me to (a) recognize inordinate time use on an assignment and change my strategy or (b) approach the professor with concerns about my time commitments. In the latter case, I have data to support my feeling that an assignment is taking a relatively large amount of time despite my best efforts to control the commitment. In the rare cases this has happened, the professor or TA can help me identify where I'm spending too much time.
+> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Hyperbolic complaints about classwork commitments can be taken literally, forcing unncessary concessions from professors and creating a negative student culture. Tracking my own time allows me to (a) recognize inordinate time use on an assignment and change my strategy or (b) approach the professor with concerns about my time commitments. In the latter case, I have data to support my feeling that an assignment is taking a relatively large amount of time despite my best efforts to control the commitment. In the rare cases this has happened, the professor or TA can help me identify where I'm spending too much time.
 ### 4. Tracking my time keeps me focused
 > Starting a timer means that I am engaging in deep work. There's a mindset shift when that timer starts. It prevents me from getting distracted or otherwise increasing the amount of time I spend on an assignment. 
 
