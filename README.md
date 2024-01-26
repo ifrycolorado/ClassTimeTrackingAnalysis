@@ -85,6 +85,12 @@ I've decided to release my time tracking because I believe that it's helpful for
 * Students at other schools: there's a pervasive hustle culture that glorifies the poor usage of time. Spending time on something you hate is entertaining, but certainly not encouraging (or healthy). I'm hoping this project demonstrates that academic success is possible without being miserable. 
 * Faculty: It's easy for students to overexaggerate their time usage, especially if it's for a class they didn't enjoy. Being able to see how a student spends their time outside of class may be beneficial to course planning and content management.
 
+# Interesting Things About this Data
+
+1. Some classes are spiky with irregular time contributions, like [OS](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf). Some classes are relatively flat, like [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf).
+2. All classes fall _very_ short of the "3 hours of outside work per credit per week" metric (see [graph](images/hours_per_credit.png)). If I spent an average of 12 hours per week on homework and spent about 12 hours in lecture every week, that's only 24 hours a week, as opposed to the "expected" 48 hours a week.
+3. My [time per day](images/F2023_per_day.png) is very slanted. I knew I would never have commitments on Monday nights, so that's when I would do most of my work. 
+
 # Toggl Details
 
 For you Toggl power users, each course was designated as its own project, each assignment was as its own time entry, and each semester was organized as a client. Domains and Types are tags.  
