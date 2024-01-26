@@ -4,6 +4,7 @@
 * Toggl Reports for entire semesters (broken down by assignment)
   * [S2023](reports/S2023_Toggl.pdf), [F2023](reports/F2023_Toggl.pdf)
 * Toggl Reports for individual classes (shows time usage over course of semester)
+  
   | Course Name                         | Department | Code   | Semester |
   |-------------------------------------|------------|--------|----------|
   | [Software Engineering](reports/SOFTWARE-ENGINEERING_CSCI306_F2023.pdf)                | CSCI       | 306    | F2023    |
@@ -19,7 +20,7 @@
 
 **Charts**
 * Time usage per type of work
-  * F2023, Operating Systems, Software Engineering, Algorithms, Generative AI and Graphic Novels
+  * [F2023](images/F2023_per_type.png), [Operating Systems](images/course_OS_F2023.png), [Software Engineering](images/course_SWE_F2023.png), [Algorithms](images/course_Algorithms_F2023.png), [Generative AI and Graphic Novels](images/course_GenAI & Art.png)
 * Time usage per day week
   * F2023
  
