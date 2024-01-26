@@ -23,7 +23,7 @@ TOTAL TIME : 33.67 hours
 COURSE: Principles of Chemistry I (CHGN121) S2023
 TOTAL TIME : 33.67 hours
 HOURS PER WEEK : 2.10 hours
-HOURS PER CREDIT PER WEEK : 0.70 hours
+HOURS PER CREDIT PER WEEK : 0.53 hours
 
 COURSE: Database Management (CSCI403) S2023
 Not Specified: 33.57 hours (100.00%)
