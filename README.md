@@ -3,8 +3,8 @@
 ### Full Semesters
 | Semester (Report) | Per Work Type (png) | Per Day of Week (png) | Plaintext (txt)    | Dataset (csv) |
 |-------------------|---------------|-----------------|--------------|-----------|
-| [S2023](reports/S2023_Toggl.pdf) | ❌ Not tracked| ✅ [Available](images/S2023_per_day.png) | ✅ [Available](logs/S2023_raw_stats.png) | ✅ [Available](data/S2023_cleaned.csv) |
-| [F2023](reports/F2023_Toggl.pdf) | ✅ [Available](images/F2023_per_type.png)| ✅ [Available](images/F2023_per_day.png) | ✅ [Available](logs/F2023_raw_stats.png) | ✅ [Available](data/F2023_cleaned.csv) | 
+| [S2023](reports/S2023_Toggl.pdf) | ❌ Not tracked| ✅ [Available](images/S2023_per_day.png) | ✅ [Available](logs/S2023_raw_stats.txt) | ✅ [Available](data/S2023_cleaned.csv) |
+| [F2023](reports/F2023_Toggl.pdf) | ✅ [Available](images/F2023_per_type.png)| ✅ [Available](images/F2023_per_day.png) | ✅ [Available](logs/F2023_raw_stats.txt) | ✅ [Available](data/F2023_cleaned.csv) | 
 
 ### Individual Courses
   
