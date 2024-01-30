@@ -91,6 +91,15 @@ I've decided to release my time tracking because I believe that it's helpful for
 2. My time use falls _very_ short of the "3 hours of outside work per credit per week" metric (see [graph](images/hours_per_credit.png)). If I spent an average of 12 hours per week on homework and spent about 12 hours in lecture every week, that's only 24 hours a week, as opposed to the "expected" 48 hours a week.
 3. My [time per day](images/F2023_per_day.png) is very slanted. I knew I would never have commitments on Monday nights, so that's when I would do most of my work. 
 
+# My Learning Style
+
+Everybody learns (and works) differently, so my data will undoubtedly differ from other students. 
+
+My learning style has a few characteristics: 
+1. **Trust and In-Person**: I absolutely prefer to learn from a lecturer that I trust rather than read something online, so attending lectures is a priority. This will reduce the amount of time an assignment takes because the work of understanding the concepts will have been completed in lecture. 
+2. **Individual**: I hate studying or doing homework in groups, so the vast majority of tracked entries describe individual, solo work.
+3. **Writing**: I take hand-written notes for every lecture and most readings. It keeps me engaged in the content and helps me actively organize my thoughts. 
+
 # Toggl Details
 
 For you Toggl power users, each course was designated as its own project, each assignment was as its own time entry, and each semester was organized as a client. Domains and Types are tags.  
