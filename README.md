@@ -5,6 +5,7 @@
 |-------------------|---------------|-----------------|--------------|-----------|
 | [S2023](reports/S2023_Toggl.pdf) | ❌ Not tracked| ✅ [Available](images/S2023_per_day.png) | ✅ [Available](logs/S2023_raw_stats.txt) | ✅ [Available](data/S2023_cleaned.csv) |
 | [F2023](reports/F2023_Toggl.pdf) | ✅ [Available](images/F2023_per_type.png)| ✅ [Available](images/F2023_per_day.png) | ✅ [Available](logs/F2023_raw_stats.txt) | ✅ [Available](data/F2023_cleaned.csv) | 
+| [S2024](reports/S2024_Toggl.pdf) | ✅ [Available](images/S2024_per_type.png)| ✅ [Available](images/S2024_per_day.png) | ✅ [Available](logs/S2024_raw_stats.txt) | ✅ [Available](data/S2024_cleaned.csv) | 
 
 ### Individual Courses
   
@@ -15,10 +16,16 @@
   | [Database Management](reports/DATABASE-MANAGEMENT_CSCI403_S2023.pdf)                 | CSCI       | 403    | S2023    | ❌ Not tracked|
   | [Algorithms](reports/ALGORITHMS_CSCI406_F2023.pdf)                          | CSCI       | 406    | F2023    | ✅ [Available](images/course_Algorithms_F2023.png)|
   | [Operating Systems](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf)                   | CSCI       | 442    | F2023    | ✅ [Available](images/course_OS_F2023.png)|
+  | [Network Sciences](reports/NETWORK-SCIENCES_CSCI498D_S2024.pdf) | CSCI | 498D | S2024 | ✅ [Available](images/course_Network-Sciences_S2024.png)|
+  | [Theory of Cryptography](reports/THEORY-OF-CRYPTOGRAPHY_CSCI574_S2024.pdf)  | CSCI       | 574    | S2024    | ✅ [Available](images/course_Cryptography_S2024.png)|
+  | [Computing Beyond CPUs (Heterogeneous Computing)](reports/COMPUTING-BEYOND-CPUs_CSCI582_S2024.pdf) | CSCI | 582 | S2024 | ✅ [Available](images/course_Beyond-CPUs_S2024.png)|
   | [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf)           | CHGN       | 121    | S2023    | ❌ Not tracked|
   | [Music Technology](reports/MUSIC-TECHNOLOGY_HASS327_S2023.pdf)                    | HASS       | 327    | S2023    | ❌ Not tracked| 
   | [Explorations in Modern World](reports/EXPLORATION-IN-MODERN-WORLD_HNRS315_S2023.pdf)        | HNRS       | 315    | S2023    | ❌ Not tracked|
+  | [McBride Practicum](reports/MY-PRACTICUM_HNRS405_S2024.pdf) | HNRS | 405 | ONGOING | ✅ [Available](images/course_Practicum---My-Practicum_S2024.png)|
   | [Generative AI and Graphic Novels](reports/GENAI-ART_HNRS435A_F2023.pdf)    | HNRS       | 435A   | F2023    | ✅ [Available](images/course_GenAI-&-Art.png)|
+  | [Social Media and Misinformation](reports/SOCIAL-MEDIA-AND-MISINFORMATION.pdf) | HNRS | 445 | S2024 | ✅ [Available](images/course_Social-Media-and-Misinformation_S2024.png)|
+  
 
 Reports include individual assignment times _and_ time investments per semester. If you're looking for how long an assignment will relative to other assignments or when in a semester a course will require more time, that's where to look. They're pretty great. 
 
