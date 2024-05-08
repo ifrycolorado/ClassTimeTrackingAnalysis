@@ -49,10 +49,11 @@ In Fall of 2023, I added tags that specified the type of work being done for a s
   * All homework worksheets are considered a type of practice.
   * Any type of studying, including reviewing my notes, is a type of practice.
   * This category is intentionally broad and serves as a catch-all for ambiguous work. 
-* **Reading**: Any note-taking activity. This includes watching videos and reading lessons.
+* **Reading**: Any note-taking activity. This includes watching videos and reading lesson materials.
 * **Research**: Any type of open-ended, exploratory research.
-  * This includes literature reviews,
+  * This includes literature reviews, searching journal databases, etc.
   * This is not the same as reading. Reading distills content without the creation of new ideas, while research synthesizes topics and creates something new.
+  * _Generally_, Writing is a separate activity from Research. However, there are some gray areas. Consider the act of writing an outline for a research paper: I will need to be searching for ideas (researching) while also structuring them logically (writing). For graduate courses that are research intensive, this becomes quite ambigious.
 * **Implementing**: Any configuration task that does not require specific skills.
   * This includes IDE configuration, LMS configuration, etc.
 * **Assessments**: Any assessment taken outside of class. This includes quizzes and exams.
@@ -61,6 +62,8 @@ I do not track lecture time. I attend most lectures, so I can figure out how muc
 
 I have a few rules for when I track time: 
 * Looking at my phone for more than 15 seconds forces the timer to stop.
+  * This is long enough to switch music and make sure that any texts were not emergencies. 
+* Checking email/news/etc. forces the timer to stop (unless this is apart of the task).
 * Any breaks (snack, stretch, etc.) forces the timer to stop.
 * Switching tasks forces the timer to switch with me.
 
@@ -71,11 +74,11 @@ There's a few reasons why I track the time I spend on classes:
 ### 1. Tracking assignments early in the semester helps me project my workload for later in the semester. 
 > Generally, if assignments are well-formatted and well-balanced, the time spent on subsequent assignments of the same type in a class will decrease throughout the semester. This is not always the case, but it at least provides a benchmark. Using historical data allows me to calculate burndown rates as finals approach and helps me manage final projects. 
 ### 2. Tracking assignments provides a measure of difficulty
-> Time gives an objective measure of difficulty - it's not a great measure, but it's at a metric. For example, the start of a paper is always tough, so I'll force myself to sit and write for an hour. Or, if I'm working on a frustrating project, I can check my time and say, "Wow, I've invested a lot of time into this. I'm probably working on a difficult problem." This recognition allows me to take pride in doing difficult work. 
+> Time gives an objective measure of difficulty - it's not a great measure, but it is at least a metric. For example, the start of a paper is always tough, so I'll force myself to sit and write for an hour. Or, if I'm working on a frustrating project, I can check my time and say, "Wow, I've invested a lot of time into this. I'm probably working on a difficult problem." This recognition allows me to take pride in doing difficult work. 
 ### 3. Tracking classes keeps me accountable
-> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Really? ALL day? Hyperbolic complaints about classwork commitments can be taken literally, forcing unncessary concessions from professors and creating a negative student culture. Tracking my own time allows me to recognize inordinate time use on an assignment and change my strategy. Maybe, I need to change my approach. Maybe, I need to spend less time on a certain aspect of the assignment. Maybe, I just need to take a break because I've been working for too long. 
+> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Really? ALL day? Hyperbolic complaints about classwork commitments can be taken literally, forcing unncessary concessions from professors and creating a negative student culture. Tracking my own time allows me to recognize inordinate time use on an assignment and change my strategy. Maybe, I need to change my approach. Maybe, I need to spend less time on a certain aspect of the assignment. Maybe, I just need to take a break because I've been working for too long. Or, in a worst case scenario, I disagree with the pedagogy of the assignment because my time-to-learning ratio is high, and I abandon the assignment. 
 ### 4. Tracking my time keeps me focused
-> Starting a timer means that I am engaging in deep work. There's a mindset shift when that timer starts. It prevents me from getting distracted or otherwise increasing the amount of time I spend on an assignment. 
+> Starting a timer means that I am engaging in deep work. There's a mindset shift when that timer starts. It prevents me from getting distracted or otherwise increasing the amount of time I spend on an assignment. I would much rather write music or go on a run than procrastinate my homework by scrolling YouTube.
 
 # Why I'm Releasing this Data
 
@@ -88,7 +91,7 @@ Furthermore, when I start an assignment, I have two similar questions:
 2. How much time will this take? 
 
 I've decided to release my time tracking because I believe that it's helpful for: 
-* Students at my school: seeing the overall time spent on a class is generally beneficial for course registration. However, it would also be useful to see individual assignment breakdowns. While it's always the hope that previous assignments in a class will project the time commitment for subsequent assignments, there's significant variability. I know **I** would personally appreciate seeing how long it took for other students to complete these assignments.
+* Students at my school: seeing the overall time spent on a class is generally beneficial for course registration. However, it would also be useful to see individual assignment breakdowns. While it's always the hope that the personal time commitment for previous assignments in a class will the predict time commitment for subsequent assignments, there's significant variability. I know **I** would personally appreciate seeing how long it took for other students to actually complete these assignments instead of forecasting my own expectations.
 * Students at other schools: there's a pervasive hustle culture that glorifies the poor usage of time. Spending time on something you hate is entertaining, but certainly not encouraging (or healthy). I'm hoping this project demonstrates that academic success is possible without being miserable. 
 * Faculty: It's easy for students to overexaggerate their time usage, especially if it's for a class they didn't enjoy. Being able to see how a student spends their time outside of class may be beneficial to course planning and content management.
 
@@ -96,7 +99,7 @@ I've decided to release my time tracking because I believe that it's helpful for
 
 1. Some classes are spiky with irregular time contributions, like [OS](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf). Some classes are relatively flat, like [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf).
 2. My time use falls _very_ short of the "3 hours of outside work per credit per week" metric (see [graph](images/hours_per_credit.png)). If I spent an average of 12 hours per week on homework and spent about 12 hours in lecture every week, that's only 24 hours a week, as opposed to the "expected" 48 hours a week.
-3. My [time per day](images/F2023_per_day.png) is very slanted. I knew I would never have commitments on Monday nights, so that's when I would do most of my work. 
+3. My [time per day](images/F2023_per_day.png) is very slanted. Generally, I have very few commitments in the first half of the week, so I complete the majority of my work Monday-Wednesday.
 
 # My Learning Style
 
@@ -109,10 +112,10 @@ My learning style has a few characteristics:
 
 # Toggl Details
 
-For you Toggl power users, each course was designated as its own project, each assignment was as its own time entry, and each semester was organized as a client. Domains and Types are tags.  
+For those of you who are Toggl power users: each course was designated as its own project, each assignment was as its own time entry, and each semester was organized as a client. Domains and Types are tags.  
 
 I use the free version of Toggl. Maybe Toggl has the per-tag analytics in the pro version, but I wouldn't know. 
 
 # About Me
 
-I am a Junior at the Colorado School of Mines studying Computer Science with a minor in Public Affairs. I've maintained a 4.0 in all of my coursework, so this time tracking data is indicative of what it took me to get an A in a class. This will not be the same for everybody. 
+I am a Junior at the Colorado School of Mines studying Computer Science with a minor in Public Affairs through the McBride Honors Program. I've maintained a 4.0 in all of my coursework. This time tracking data is indicative of what it took me to get an As in all of my classes. This will not be the same for everybody. 
