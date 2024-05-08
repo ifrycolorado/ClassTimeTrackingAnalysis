@@ -1,0 +1,367 @@
+,Client,Project,Description,Start date,Start time,End date,End time,Duration,Tags,Type,Domain
+0,S2024,Social Media and Misinformation,ClickUp Scheduling,2024-01-09 00:00:00,13:52:29,2024-01-09 00:00:00,14:46:40,0 days 00:54:11,"Domain: School, Type: Implementing",Implementing,School
+1,S2024,Cryptography,ClickUp Scheduling,2024-01-09 00:00:00,14:45:00,2024-01-09 00:00:00,15:07:24,0 days 00:22:24,"Domain: School, Type: Implementing",Implementing,School
+2,S2024,Cryptography,Crypt Zotero,2024-01-10 00:00:00,09:35:58,2024-01-10 00:00:00,09:47:46,0 days 00:11:48,"Domain: School, Type: Implementing",Implementing,School
+3,S2024,Network Sciences,Network Zotero,2024-01-10 00:00:00,14:58:06,2024-01-10 00:00:00,14:58:19,0 days 00:00:13,"Domain: School, Type: Implementing",Implementing,School
+4,S2024,Network Sciences,Network Zotero,2024-01-10 00:00:00,15:00:20,2024-01-10 00:00:00,15:14:20,0 days 00:14:00,"Domain: School, Type: Implementing",Implementing,School
+5,S2024,Cryptography,Quiz 01,2024-01-11 00:00:00,13:58:56,2024-01-11 00:00:00,14:21:06,0 days 00:22:10,"Domain: School, Type: Assessment",Assessment,School
+6,S2024,Social Media and Misinformation,Reading: Silicon Valley Ideologies,2024-01-11 00:00:00,14:22:20,2024-01-11 00:00:00,15:08:41,0 days 00:46:21,"Domain: School, Type: Reading",Reading,School
+7,S2024,Social Media and Misinformation,Reading: Silicon Valley Ideologies,2024-01-11 00:00:00,15:14:15,2024-01-11 00:00:00,16:17:49,0 days 01:03:34,"Domain: School, Type: Reading",Reading,School
+8,S2024,Social Media and Misinformation,Reflection 1,2024-01-11 00:00:00,18:05:15,2024-01-11 00:00:00,19:39:24,0 days 01:34:09,"Domain: School, Type: Writing",Writing,School
+9,S2024,Social Media and Misinformation,Reflection 1,2024-01-11 00:00:00,21:10:00,2024-01-11 00:00:00,21:15:20,0 days 00:05:20,"Domain: School, Type: Writing",Writing,School
+10,S2024,Social Media and Misinformation,Reflection 1,2024-01-16 00:00:00,17:16:37,2024-01-16 00:00:00,17:43:55,0 days 00:27:18,"Domain: School, Type: Writing",Writing,School
+11,S2024,Social Media and Misinformation,Reading: Silicon Valley Ideologies,2024-01-16 00:00:00,17:45:13,2024-01-16 00:00:00,18:39:08,0 days 00:53:55,"Domain: School, Type: Reading",Reading,School
+12,S2024,Social Media and Misinformation,Jan. 17 Discussion Prep,2024-01-16 00:00:00,18:42:48,2024-01-16 00:00:00,18:49:23,0 days 00:06:35,"Domain: School, Type: Research",Research,School
+13,S2024,Social Media and Misinformation,Jan. 17 Discussion Prep,2024-01-17 00:00:00,07:57:39,2024-01-17 00:00:00,08:25:42,0 days 00:28:03,"Domain: School, Type: Research",Research,School
+14,S2024,Social Media and Misinformation,Jan. 17 Discussion Prep,2024-01-17 00:00:00,09:28:35,2024-01-17 00:00:00,09:54:38,0 days 00:26:03,"Domain: School, Type: Research",Research,School
+15,S2024,Social Media and Misinformation,Jan. 17 Discussion Prep,2024-01-17 00:00:00,09:55:32,2024-01-17 00:00:00,10:14:49,0 days 00:19:17,"Domain: School, Type: Research",Research,School
+16,S2024,Social Media and Misinformation,Jan. 17 Discussion Prep,2024-01-17 00:00:00,15:00:00,2024-01-17 00:00:00,15:40:40,0 days 00:40:40,"Domain: School, Type: Research",Research,School
+17,S2024,Network Sciences,Dataset Discussion,2024-01-17 00:00:00,15:54:28,2024-01-17 00:00:00,16:21:00,0 days 00:26:32,"Domain: School, Type: Research",Research,School
+18,S2024,Network Sciences,CSR Quiz,2024-01-18 00:00:00,13:30:00,2024-01-18 00:00:00,13:42:53,0 days 00:12:53,"Domain: School, Type: Practice",Practice,School
+19,S2024,Beyond CPUs,HW01,2024-01-18 00:00:00,13:43:22,2024-01-18 00:00:00,14:36:14,0 days 00:52:52,"Domain: School, Type: Practice",Practice,School
+20,S2024,Cryptography,HW01,2024-01-18 00:00:00,14:53:39,2024-01-18 00:00:00,15:15:40,0 days 00:22:01,"Domain: School, Type: Practice",Practice,School
+21,S2024,Network Sciences,Dataset Discussion,2024-01-19 00:00:00,09:56:55,2024-01-19 00:00:00,10:07:06,0 days 00:10:11,"Domain: School, Type: Research",Research,School
+22,S2024,Network Sciences,Dataset Discussion,2024-01-19 00:00:00,10:22:46,2024-01-19 00:00:00,10:28:47,0 days 00:06:01,"Domain: School, Type: Research",Research,School
+23,S2024,Social Media and Misinformation,Reading: Conspiracy Theories,2024-01-22 00:00:00,09:53:06,2024-01-22 00:00:00,10:35:39,0 days 00:42:33,"Domain: School, Type: Reading",Reading,School
+24,S2024,Social Media and Misinformation,Reading: Conspiracy Theories,2024-01-22 00:00:00,10:37:39,2024-01-22 00:00:00,11:00:22,0 days 00:22:43,"Domain: School, Type: Reading",Reading,School
+25,S2024,Social Media and Misinformation,Reading: Conspiracy Theories,2024-01-22 00:00:00,11:17:31,2024-01-22 00:00:00,11:56:16,0 days 00:38:45,"Domain: School, Type: Reading",Reading,School
+26,S2024,Cryptography,"Secrecy, Security, Obscurity",2024-01-22 00:00:00,20:46:32,2024-01-22 00:00:00,20:53:22,0 days 00:06:50,"Domain: School, Type: Reading",Reading,School
+27,S2024,Cryptography,HW01,2024-01-24 00:00:00,09:19:23,2024-01-24 00:00:00,10:06:05,0 days 00:46:42,"Domain: School, Type: Practice",Practice,School
+28,S2024,Cryptography,HW01,2024-01-24 00:00:00,13:34:37,2024-01-24 00:00:00,13:57:00,0 days 00:22:23,"Domain: School, Type: Practice",Practice,School
+29,S2024,Cryptography,HW01,2024-01-24 00:00:00,14:57:53,2024-01-24 00:00:00,15:00:17,0 days 00:02:24,"Domain: School, Type: Practice",Practice,School
+30,S2024,Cryptography,HW01,2024-01-24 00:00:00,15:03:24,2024-01-24 00:00:00,15:20:33,0 days 00:17:09,"Domain: School, Type: Practice",Practice,School
+31,S2024,Network Sciences,P1,2024-01-24 00:00:00,15:21:03,2024-01-24 00:00:00,16:10:00,0 days 00:48:57,"Domain: School, Type: Coding",Coding,School
+32,S2024,Cryptography,HW01,2024-01-25 00:00:00,15:40:43,2024-01-25 00:00:00,16:20:19,0 days 00:39:36,"Domain: School, Type: Practice",Practice,School
+33,S2024,Network Sciences,P1,2024-01-26 00:00:00,13:04:34,2024-01-26 00:00:00,13:13:35,0 days 00:09:01,"Domain: School, Type: Coding",Coding,School
+34,S2024,Social Media and Misinformation,Reading: Free Speech,2024-01-30 00:00:00,18:29:18,2024-01-30 00:00:00,19:29:25,0 days 01:00:07,"Domain: School, Type: Reading",Reading,School
+35,S2024,Social Media and Misinformation,Reading: Free Speech,2024-01-30 00:00:00,19:35:00,2024-01-30 00:00:00,20:09:49,0 days 00:34:49,"Domain: School, Type: Reading",Reading,School
+36,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-01 00:00:00,14:36:07,2024-02-01 00:00:00,14:47:15,0 days 00:11:08,"Domain: School, Type: Implementing",Implementing,School
+37,S2024,Cryptography,Quiz 03,2024-02-01 00:00:00,14:56:41,2024-02-01 00:00:00,15:09:35,0 days 00:12:54,"Domain: School, Type: Assessment",Assessment,School
+38,S2024,Cryptography,Quiz 03,2024-02-01 00:00:00,15:30:28,2024-02-01 00:00:00,15:57:16,0 days 00:26:48,"Domain: School, Type: Assessment",Assessment,School
+39,S2024,Social Media and Misinformation,Reading: Section 230,2024-02-02 00:00:00,11:49:30,2024-02-02 00:00:00,12:35:46,0 days 00:46:16,"Domain: School, Type: Reading",Reading,School
+40,S2024,Social Media and Misinformation,Reading: Section 230,2024-02-02 00:00:00,12:39:18,2024-02-02 00:00:00,12:56:35,0 days 00:17:17,"Domain: School, Type: Reading",Reading,School
+41,S2024,Social Media and Misinformation,Reading: Section 230,2024-02-02 00:00:00,15:12:20,2024-02-02 00:00:00,15:30:23,0 days 00:18:03,"Domain: School, Type: Reading",Reading,School
+42,S2024,Social Media and Misinformation,Reading: Section 230,2024-02-02 00:00:00,15:33:15,2024-02-02 00:00:00,15:48:53,0 days 00:15:38,"Domain: School, Type: Reading",Reading,School
+43,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-05 00:00:00,18:35:00,2024-02-05 00:00:00,18:41:10,0 days 00:06:10,"Domain: School, Type: Implementing",Implementing,School
+44,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-05 00:00:00,18:43:07,2024-02-05 00:00:00,19:03:04,0 days 00:19:57,"Domain: School, Type: Writing",Writing,School
+45,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-05 00:00:00,19:05:53,2024-02-05 00:00:00,19:07:58,0 days 00:02:05,"Domain: School, Type: Writing",Writing,School
+46,S2024,Cryptography,HW02,2024-02-05 00:00:00,19:08:59,2024-02-05 00:00:00,20:54:20,0 days 01:45:21,"Domain: School, Type: Practice",Practice,School
+47,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-06 00:00:00,11:00:00,2024-02-06 00:00:00,11:45:00,0 days 00:45:00,"Domain: School, Type: Writing",Writing,School
+48,S2024,Network Sciences,HW01,2024-02-06 00:00:00,14:01:28,2024-02-06 00:00:00,15:10:59,0 days 01:09:31,"Domain: School, Type: Practice",Practice,School
+49,S2024,Network Sciences,HW01,2024-02-06 00:00:00,15:13:08,2024-02-06 00:00:00,15:26:26,0 days 00:13:18,"Domain: School, Type: Practice",Practice,School
+50,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-06 00:00:00,16:15:03,2024-02-06 00:00:00,17:23:49,0 days 01:08:46,"Domain: School, Type: Writing",Writing,School
+51,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-06 00:00:00,20:16:02,2024-02-06 00:00:00,20:57:26,0 days 00:41:24,"Domain: School, Type: Writing",Writing,School
+52,S2024,Cryptography,HW02,2024-02-06 00:00:00,21:53:40,2024-02-06 00:00:00,22:07:32,0 days 00:13:52,"Domain: School, Type: Practice",Practice,School
+53,S2024,Cryptography,HW02,2024-02-07 00:00:00,09:26:04,2024-02-07 00:00:00,09:45:47,0 days 00:19:43,"Domain: School, Type: Practice",Practice,School
+54,S2024,Beyond CPUs,Vector Machines Reading,2024-02-07 00:00:00,09:54:30,2024-02-07 00:00:00,10:40:19,0 days 00:45:49,"Domain: School, Type: Reading",Reading,School
+55,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-07 00:00:00,11:19:33,2024-02-07 00:00:00,12:03:00,0 days 00:43:27,"Domain: School, Type: Implementing",Implementing,School
+56,S2024,Network Sciences,Course Enroll - Data Cleaning,2024-02-07 00:00:00,13:24:36,2024-02-07 00:00:00,13:47:18,0 days 00:22:42,"Domain: School, Type: Coding",Coding,School
+57,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-07 00:00:00,14:59:04,2024-02-07 00:00:00,15:27:54,0 days 00:28:50,"Domain: School, Type: Writing",Writing,School
+58,S2024,Social Media and Misinformation,Feb. 7 Discussion Prep,2024-02-07 00:00:00,16:14:52,2024-02-07 00:00:00,16:23:54,0 days 00:09:02,"Domain: School, Type: Writing",Writing,School
+59,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-07 00:00:00,16:30:37,2024-02-07 00:00:00,16:57:05,0 days 00:26:28,"Domain: School, Type: Implementing",Implementing,School
+60,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-08 00:00:00,13:53:49,2024-02-08 00:00:00,14:57:56,0 days 01:04:07,"Domain: School, Type: Implementing",Implementing,School
+61,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-08 00:00:00,14:59:47,2024-02-08 00:00:00,15:25:38,0 days 00:25:51,"Domain: School, Type: Implementing",Implementing,School
+62,S2024,Social Media and Misinformation,Sockpuppet Design,2024-02-08 00:00:00,17:15:24,2024-02-08 00:00:00,18:13:12,0 days 00:57:48,"Domain: School, Type: Implementing",Implementing,School
+63,S2024,Social Media and Misinformation,London Sockpuppet,2024-02-08 00:00:00,18:13:24,2024-02-08 00:00:00,18:46:41,0 days 00:33:17,"Domain: School, Type: Research",Research,School
+64,S2024,Cryptography,HW02,2024-02-09 00:00:00,10:46:34,2024-02-09 00:00:00,10:48:07,0 days 00:01:33,"Domain: School, Type: Practice",Practice,School
+65,S2024,Network Sciences,HW01,2024-02-09 00:00:00,10:54:03,2024-02-09 00:00:00,12:06:23,0 days 01:12:20,"Domain: School, Type: Practice",Practice,School
+66,S2024,Network Sciences,HW01,2024-02-09 00:00:00,12:42:29,2024-02-09 00:00:00,13:42:44,0 days 01:00:15,"Domain: School, Type: Practice",Practice,School
+67,S2024,Network Sciences,HW01,2024-02-09 00:00:00,16:40:40,2024-02-09 00:00:00,17:07:24,0 days 00:26:44,"Domain: School, Type: Practice",Practice,School
+68,S2024,Social Media and Misinformation,Reading: Trolling,2024-02-12 00:00:00,13:22:05,2024-02-12 00:00:00,13:50:42,0 days 00:28:37,"Domain: School, Type: Reading",Reading,School
+69,S2024,Social Media and Misinformation,Reflection 2,2024-02-12 00:00:00,19:37:11,2024-02-12 00:00:00,21:02:30,0 days 01:25:19,"Domain: School, Type: Writing",Writing,School
+70,S2024,Network Sciences,Course Enroll - Data Cleaning,2024-02-13 00:00:00,14:45:00,2024-02-13 00:00:00,15:55:18,0 days 01:10:18,"Domain: School, Type: Coding",Coding,School
+71,S2024,Social Media and Misinformation,Reflection 2,2024-02-13 00:00:00,15:55:32,2024-02-13 00:00:00,17:16:51,0 days 01:21:19,"Domain: School, Type: Writing",Writing,School
+72,S2024,Social Media and Misinformation,Reading: Trolling,2024-02-13 00:00:00,19:18:03,2024-02-13 00:00:00,19:27:01,0 days 00:08:58,"Domain: School, Type: Reading",Reading,School
+73,S2024,Social Media and Misinformation,Reading: Trolling,2024-02-13 00:00:00,19:33:57,2024-02-13 00:00:00,19:36:40,0 days 00:02:43,"Domain: School, Type: Reading",Reading,School
+74,S2024,Social Media and Misinformation,Reading: Trolling,2024-02-13 00:00:00,19:37:13,2024-02-13 00:00:00,21:06:46,0 days 01:29:33,"Domain: School, Type: Reading",Reading,School
+75,S2024,Social Media and Misinformation,Reflection 2,2024-02-14 00:00:00,09:23:27,2024-02-14 00:00:00,10:08:14,0 days 00:44:47,"Domain: School, Type: Writing",Writing,School
+76,S2024,Beyond CPUs,HW02,2024-02-14 00:00:00,10:32:53,2024-02-14 00:00:00,11:26:05,0 days 00:53:12,"Domain: School, Type: Practice",Practice,School
+77,S2024,Social Media and Misinformation,London Sockpuppet,2024-02-14 00:00:00,13:08:00,2024-02-14 00:00:00,13:31:00,0 days 00:23:00,"Domain: School, Type: Research",Research,School
+78,S2024,Social Media and Misinformation,London Sockpuppet,2024-02-14 00:00:00,13:31:20,2024-02-14 00:00:00,13:31:20,0 days 00:00:00,"Domain: School, Type: Research",Research,School
+79,S2024,Network Sciences,Course Enroll - Data Cleaning,2024-02-14 00:00:00,15:00:00,2024-02-14 00:00:00,15:53:57,0 days 00:53:57,"Domain: School, Type: Coding",Coding,School
+80,S2024,Beyond CPUs,HW02,2024-02-14 00:00:00,16:11:00,2024-02-14 00:00:00,16:14:43,0 days 00:03:43,"Domain: School, Type: Practice",Practice,School
+81,S2024,Cryptography,Quiz 04,2024-02-15 00:00:00,16:35:41,2024-02-15 00:00:00,17:12:40,0 days 00:36:59,"Domain: School, Type: Assessment",Assessment,School
+82,S2024,Social Media and Misinformation,Reading: Gamergate,2024-02-20 00:00:00,18:20:06,2024-02-20 00:00:00,20:28:23,0 days 02:08:17,"Domain: School, Type: Reading",Reading,School
+83,S2024,Beyond CPUs,HW03,2024-02-21 00:00:00,09:18:19,2024-02-21 00:00:00,11:03:41,0 days 01:45:22,"Domain: School, Type: Practice",Practice,School
+84,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-21 00:00:00,11:30:06,2024-02-21 00:00:00,11:47:49,0 days 00:17:43,"Domain: School, Type: Coding",Coding,School
+85,,Practicum - My Practicum,Practicum Emails,2024-02-21 00:00:00,12:44:38,2024-02-21 00:00:00,13:03:34,0 days 00:18:56,"Domain: School, Type: Writing",Writing,School
+86,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-21 00:00:00,14:54:00,2024-02-21 00:00:00,14:55:45,0 days 00:01:45,"Domain: School, Type: Coding",Coding,School
+87,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-21 00:00:00,14:56:12,2024-02-21 00:00:00,15:47:28,0 days 00:51:16,"Domain: School, Type: Coding",Coding,School
+88,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-21 00:00:00,15:47:51,2024-02-21 00:00:00,16:29:57,0 days 00:42:06,"Domain: School, Type: Coding",Coding,School
+89,S2024,Cryptography,Quiz 05,2024-02-22 00:00:00,14:32:19,2024-02-22 00:00:00,14:41:42,0 days 00:09:23,"Domain: School, Type: Assessment",Assessment,School
+90,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-22 00:00:00,14:43:45,2024-02-22 00:00:00,16:03:06,0 days 01:19:21,"Domain: School, Type: Coding",Coding,School
+91,S2024,Cryptography,HW03,2024-02-26 00:00:00,10:55:28,2024-02-26 00:00:00,12:29:10,0 days 01:33:42,"Domain: School, Type: Practice",Practice,School
+92,S2024,Network Sciences,HW02,2024-02-26 00:00:00,16:20:50,2024-02-26 00:00:00,16:47:58,0 days 00:27:08,"Domain: School, Type: Practice",Practice,School
+93,S2024,Network Sciences,HW02,2024-02-26 00:00:00,16:55:00,2024-02-26 00:00:00,17:10:28,0 days 00:15:28,"Domain: School, Type: Practice",Practice,School
+94,S2024,Cryptography,HW03,2024-02-26 00:00:00,19:13:18,2024-02-26 00:00:00,20:03:21,0 days 00:50:03,"Domain: School, Type: Practice",Practice,School
+95,S2024,Network Sciences,HW02,2024-02-26 00:00:00,20:08:05,2024-02-26 00:00:00,20:57:49,0 days 00:49:44,"Domain: School, Type: Practice",Practice,School
+96,S2024,Cryptography,HW03,2024-02-26 00:00:00,21:36:27,2024-02-26 00:00:00,22:36:15,0 days 00:59:48,"Domain: School, Type: Practice",Practice,School
+97,S2024,Network Sciences,HW02,2024-02-27 00:00:00,14:00:42,2024-02-27 00:00:00,15:03:42,0 days 01:03:00,"Domain: School, Type: Practice",Practice,School
+98,S2024,Network Sciences,HW02,2024-02-27 00:00:00,15:06:50,2024-02-27 00:00:00,15:08:45,0 days 00:01:55,"Domain: School, Type: Practice",Practice,School
+99,S2024,Social Media and Misinformation,Reading: Harassment,2024-02-27 00:00:00,15:23:24,2024-02-27 00:00:00,15:33:04,0 days 00:09:40,"Domain: School, Type: Reading",Reading,School
+100,S2024,Cryptography,HW03,2024-02-27 00:00:00,15:33:12,2024-02-27 00:00:00,15:42:47,0 days 00:09:35,"Domain: School, Type: Practice",Practice,School
+101,S2024,Social Media and Misinformation,Reading: Harassment,2024-02-27 00:00:00,15:45:24,2024-02-27 00:00:00,16:49:13,0 days 01:03:49,"Domain: School, Type: Reading",Reading,School
+102,S2024,Network Sciences,Paper 1: Cryptographic Misuse in Android Apps,2024-02-28 00:00:00,10:14:44,2024-02-28 00:00:00,10:49:56,0 days 00:35:12,"Domain: School, Type: Research",Research,School
+103,S2024,Network Sciences,PA01: Small Worlds,2024-02-28 00:00:00,11:01:24,2024-02-28 00:00:00,12:27:53,0 days 01:26:29,"Domain: School, Type: Coding",Coding,School
+104,S2024,Network Sciences,PA01: Small Worlds,2024-02-28 00:00:00,16:09:05,2024-02-28 00:00:00,16:11:15,0 days 00:02:10,"Domain: School, Type: Coding",Coding,School
+105,S2024,Network Sciences,PA01: Small Worlds,2024-02-28 00:00:00,16:15:36,2024-02-28 00:00:00,17:10:00,0 days 00:54:24,"Domain: School, Type: Coding",Coding,School
+106,S2024,Cryptography,Quiz 06-07,2024-02-29 00:00:00,14:19:00,2024-02-29 00:00:00,14:38:30,0 days 00:19:30,"Domain: School, Type: Assessment",Assessment,School
+107,S2024,Network Sciences,HW02,2024-02-29 00:00:00,14:40:04,2024-02-29 00:00:00,15:11:50,0 days 00:31:46,"Domain: School, Type: Practice",Practice,School
+108,S2024,Network Sciences,Course Enroll - Eligible algo,2024-02-29 00:00:00,15:12:00,2024-02-29 00:00:00,15:18:12,0 days 00:06:12,"Domain: School, Type: Coding",Coding,School
+109,S2024,Network Sciences,Course Enroll - DAGs,2024-02-29 00:00:00,15:18:37,2024-02-29 00:00:00,15:49:01,0 days 00:30:24,"Domain: School, Type: Coding",Coding,School
+110,S2024,Cryptography,Quiz 06-07,2024-02-29 00:00:00,15:49:18,2024-02-29 00:00:00,16:14:11,0 days 00:24:53,"Domain: School, Type: Assessment",Assessment,School
+111,S2024,Social Media and Misinformation,London Sockpuppet,2024-03-03 00:00:00,19:02:42,2024-03-03 00:00:00,20:18:57,0 days 01:16:15,"Domain: School, Type: Research",Research,School
+112,S2024,Network Sciences,PA01: Small Worlds,2024-03-03 00:00:00,20:26:44,2024-03-03 00:00:00,20:41:57,0 days 00:15:13,"Domain: School, Type: Coding",Coding,School
+113,S2024,Cryptography,Midterm Study,2024-03-04 00:00:00,10:48:48,2024-03-04 00:00:00,11:42:07,0 days 00:53:19,"Domain: School, Type: Practice",Practice,School
+114,S2024,Cryptography,Midterm Study,2024-03-05 00:00:00,13:09:15,2024-03-05 00:00:00,14:05:50,0 days 00:56:35,"Domain: School, Type: Practice",Practice,School
+115,S2024,Social Media and Misinformation,Reading: Post-truth,2024-03-05 00:00:00,14:18:03,2024-03-05 00:00:00,14:49:22,0 days 00:31:19,"Domain: School, Type: Reading",Reading,School
+116,S2024,Social Media and Misinformation,Reading: Post-truth,2024-03-05 00:00:00,14:50:23,2024-03-05 00:00:00,15:01:15,0 days 00:10:52,"Domain: School, Type: Reading",Reading,School
+117,S2024,Social Media and Misinformation,Reading: Post-truth,2024-03-05 00:00:00,15:20:56,2024-03-05 00:00:00,15:35:53,0 days 00:14:57,"Domain: School, Type: Reading",Reading,School
+118,S2024,Network Sciences,PA01: Small Worlds,2024-03-05 00:00:00,16:55:44,2024-03-05 00:00:00,17:08:31,0 days 00:12:47,"Domain: School, Type: Coding",Coding,School
+119,S2024,Cryptography,Midterm Study,2024-03-06 00:00:00,09:08:38,2024-03-06 00:00:00,09:40:39,0 days 00:32:01,"Domain: School, Type: Practice",Practice,School
+120,S2024,Network Sciences,Course Enroll - Data Cleaning,2024-03-06 00:00:00,09:42:25,2024-03-06 00:00:00,10:21:44,0 days 00:39:19,"Domain: School, Type: Coding",Coding,School
+121,S2024,Cryptography,Paper 2: Detection of Weak Keys in Network Devices,2024-03-06 00:00:00,10:50:18,2024-03-06 00:00:00,11:42:08,0 days 00:51:50,"Domain: School, Type: Research",Research,School
+122,S2024,Network Sciences,Course Enroll - DAGs,2024-03-06 00:00:00,16:27:20,2024-03-06 00:00:00,16:53:01,0 days 00:25:41,"Domain: School, Type: Coding",Coding,School
+123,S2024,Cryptography,Midterm Study,2024-03-06 00:00:00,21:06:17,2024-03-06 00:00:00,21:17:06,0 days 00:10:49,"Domain: School, Type: Practice",Practice,School
+124,S2024,Cryptography,Midterm Study,2024-03-06 00:00:00,22:00:00,2024-03-06 00:00:00,22:21:17,0 days 00:21:17,"Domain: School, Type: Practice",Practice,School
+125,S2024,Cryptography,Midterm Study,2024-03-07 00:00:00,08:30:41,2024-03-07 00:00:00,09:11:43,0 days 00:41:02,"Domain: School, Type: Practice",Practice,School
+126,S2024,Network Sciences,Course Enroll - DAGs,2024-03-07 00:00:00,14:37:45,2024-03-07 00:00:00,16:06:43,0 days 01:28:58,"Domain: School, Type: Coding",Coding,School
+127,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-08 00:00:00,12:48:39,2024-03-08 00:00:00,13:00:00,0 days 00:11:21,"Domain: School, Type: Coding",Coding,School
+128,S2024,Network Sciences,Course Enroll - Meeting,2024-03-08 00:00:00,13:01:00,2024-03-08 00:00:00,13:50:00,0 days 00:49:00,nan,Not Specified,Not Specified
+129,S2024,Cryptography,Course Project: Proposal,2024-03-12 00:00:00,13:34:16,2024-03-12 00:00:00,13:49:30,0 days 00:15:14,"Domain: School, Type: Research",Research,School
+130,S2024,Beyond CPUs,HW04,2024-03-12 00:00:00,13:50:54,2024-03-12 00:00:00,14:46:44,0 days 00:55:50,"Domain: School, Type: Coding",Coding,School
+131,S2024,Social Media and Misinformation,Reading: Disinformation,2024-03-12 00:00:00,16:57:25,2024-03-12 00:00:00,18:14:31,0 days 01:17:06,"Domain: School, Type: Reading",Reading,School
+132,S2024,Social Media and Misinformation,Reflection 3,2024-03-12 00:00:00,19:12:00,2024-03-12 00:00:00,21:00:29,0 days 01:48:29,"Domain: School, Type: Writing",Writing,School
+133,S2024,Network Sciences,Midterm Study,2024-03-13 00:00:00,09:16:28,2024-03-13 00:00:00,09:40:26,0 days 00:23:58,"Domain: School, Type: Practice",Practice,School
+134,S2024,Network Sciences,Midterm Study,2024-03-13 00:00:00,09:42:13,2024-03-13 00:00:00,09:44:18,0 days 00:02:05,"Domain: School, Type: Practice",Practice,School
+135,S2024,Network Sciences,Midterm Study,2024-03-13 00:00:00,10:05:16,2024-03-13 00:00:00,10:06:28,0 days 00:01:12,"Domain: School, Type: Practice",Practice,School
+136,S2024,Network Sciences,Midterm Study,2024-03-13 00:00:00,10:15:18,2024-03-13 00:00:00,11:00:43,0 days 00:45:25,"Domain: School, Type: Practice",Practice,School
+137,S2024,Social Media and Misinformation,Reflection 3,2024-03-13 00:00:00,11:04:02,2024-03-13 00:00:00,11:13:24,0 days 00:09:22,"Domain: School, Type: Writing",Writing,School
+138,S2024,Cryptography,Course Project: Proposal,2024-03-13 00:00:00,11:20:28,2024-03-13 00:00:00,12:06:35,0 days 00:46:07,"Domain: School, Type: Research",Research,School
+139,S2024,Network Sciences,Midterm Study,2024-03-13 00:00:00,13:04:33,2024-03-13 00:00:00,13:12:57,0 days 00:08:24,"Domain: School, Type: Practice",Practice,School
+140,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-13 00:00:00,15:18:13,2024-03-13 00:00:00,17:03:48,0 days 01:45:35,"Domain: School, Type: Coding",Coding,School
+141,S2024,Cryptography,Course Project: Proposal,2024-03-13 00:00:00,19:13:39,2024-03-13 00:00:00,20:11:12,0 days 00:57:33,"Domain: School, Type: Research",Research,School
+142,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,09:40:35,2024-03-14 00:00:00,10:00:42,0 days 00:20:07,"Domain: School, Type: Research",Research,School
+143,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,10:05:07,2024-03-14 00:00:00,10:56:58,0 days 00:51:51,"Domain: School, Type: Research",Research,School
+144,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,10:58:40,2024-03-14 00:00:00,11:06:53,0 days 00:08:13,"Domain: School, Type: Research",Research,School
+145,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,13:48:31,2024-03-14 00:00:00,13:57:26,0 days 00:08:55,"Domain: School, Type: Research",Research,School
+146,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,14:02:17,2024-03-14 00:00:00,14:58:11,0 days 00:55:54,"Domain: School, Type: Research",Research,School
+147,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,15:14:06,2024-03-14 00:00:00,15:24:02,0 days 00:09:56,"Domain: School, Type: Research",Research,School
+148,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,17:45:53,2024-03-14 00:00:00,19:09:44,0 days 01:23:51,"Domain: School, Type: Research",Research,School
+149,S2024,Cryptography,Course Project: Proposal,2024-03-14 00:00:00,20:52:18,2024-03-14 00:00:00,21:04:00,0 days 00:11:42,"Domain: School, Type: Research",Research,School
+150,S2024,Beyond CPUs,Project Reading,2024-03-24 00:00:00,20:43:58,2024-03-24 00:00:00,21:23:11,0 days 00:39:13,"Domain: School, Type: Reading",Reading,School
+151,S2024,Beyond CPUs,Project Reading,2024-03-25 00:00:00,08:20:31,2024-03-25 00:00:00,09:10:52,0 days 00:50:21,"Domain: School, Type: Reading",Reading,School
+152,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-25 00:00:00,09:20:40,2024-03-25 00:00:00,10:15:31,0 days 00:54:51,"Domain: School, Type: Coding",Coding,School
+153,S2024,Beyond CPUs,Project Meeting,2024-03-25 00:00:00,10:55:00,2024-03-25 00:00:00,11:40:00,0 days 00:45:00,"Domain: School, Type: Meeting",Meeting,School
+154,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-25 00:00:00,11:47:48,2024-03-25 00:00:00,12:39:10,0 days 00:51:22,"Domain: School, Type: Coding",Coding,School
+155,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-25 00:00:00,13:17:31,2024-03-25 00:00:00,13:47:08,0 days 00:29:37,"Domain: School, Type: Coding",Coding,School
+156,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-25 00:00:00,15:32:46,2024-03-25 00:00:00,16:06:19,0 days 00:33:33,"Domain: School, Type: Coding",Coding,School
+157,S2024,Network Sciences,Course Enroll - PDF Scrape,2024-03-25 00:00:00,16:14:51,2024-03-25 00:00:00,16:36:17,0 days 00:21:26,"Domain: School, Type: Coding",Coding,School
+158,S2024,Network Sciences,Enrollment Graphs,2024-03-25 00:00:00,17:00:24,2024-03-25 00:00:00,17:23:12,0 days 00:22:48,"Domain: School, Type: Coding",Coding,School
+159,S2024,Network Sciences,Enrollment Graphs,2024-03-25 00:00:00,18:18:01,2024-03-25 00:00:00,19:13:36,0 days 00:55:35,"Domain: School, Type: Coding",Coding,School
+160,S2024,Network Sciences,Enrollment Graphs,2024-03-25 00:00:00,19:14:20,2024-03-25 00:00:00,19:58:45,0 days 00:44:25,"Domain: School, Type: Coding",Coding,School
+161,S2024,Social Media and Misinformation,Reading: Do Your Own Research,2024-03-25 00:00:00,20:09:41,2024-03-25 00:00:00,20:59:14,0 days 00:49:33,"Domain: School, Type: Reading",Reading,School
+162,S2024,Social Media and Misinformation,Reading: Do Your Own Research,2024-03-25 00:00:00,21:00:09,2024-03-25 00:00:00,21:15:44,0 days 00:15:35,"Domain: School, Type: Reading",Reading,School
+163,S2024,Beyond CPUs,Paper Presentation,2024-03-26 00:00:00,13:55:24,2024-03-26 00:00:00,15:24:52,0 days 01:29:28,"Domain: School, Type: Research",Research,School
+164,S2024,Cryptography,Quiz 08,2024-03-26 00:00:00,15:46:07,2024-03-26 00:00:00,16:06:47,0 days 00:20:40,"Domain: School, Type: Assessment",Assessment,School
+165,S2024,Cryptography,Lab 1,2024-03-26 00:00:00,16:21:54,2024-03-26 00:00:00,17:14:19,0 days 00:52:25,"Domain: School, Type: Coding",Coding,School
+166,S2024,Cryptography,Lab 1,2024-03-26 00:00:00,18:09:01,2024-03-26 00:00:00,19:47:02,0 days 01:38:01,"Domain: School, Type: Coding",Coding,School
+167,S2024,Cryptography,Lab 1,2024-03-26 00:00:00,19:51:49,2024-03-26 00:00:00,20:01:10,0 days 00:09:21,"Domain: School, Type: Coding",Coding,School
+168,S2024,Network Sciences,Enrollment Graphs,2024-03-26 00:00:00,20:54:39,2024-03-26 00:00:00,20:59:43,0 days 00:05:04,"Domain: School, Type: Coding",Coding,School
+169,S2024,Network Sciences,Enrollment Graphs,2024-03-26 00:00:00,20:58:00,2024-03-26 00:00:00,21:13:37,0 days 00:15:37,"Domain: School, Type: Coding",Coding,School
+170,S2024,Social Media and Misinformation,Reading: Do Your Own Research,2024-03-27 00:00:00,09:45:29,2024-03-27 00:00:00,10:19:06,0 days 00:33:37,"Domain: School, Type: Reading",Reading,School
+171,S2024,Cryptography,Lab 1,2024-03-27 00:00:00,10:20:13,2024-03-27 00:00:00,10:43:16,0 days 00:23:03,"Domain: School, Type: Coding",Coding,School
+172,S2024,Beyond CPUs,03/26 Paper Summaries,2024-03-27 00:00:00,10:44:30,2024-03-27 00:00:00,11:10:58,0 days 00:26:28,"Domain: School, Type: Writing",Writing,School
+173,S2024,Beyond CPUs,Paper Presentation,2024-03-27 00:00:00,12:32:02,2024-03-27 00:00:00,12:39:45,0 days 00:07:43,"Domain: School, Type: Research",Research,School
+174,S2024,Cryptography,Lab 1,2024-03-27 00:00:00,13:10:18,2024-03-27 00:00:00,13:14:39,0 days 00:04:21,"Domain: School, Type: Coding",Coding,School
+175,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-27 00:00:00,15:07:39,2024-03-27 00:00:00,15:51:40,0 days 00:44:01,"Domain: School, Type: Coding",Coding,School
+176,S2024,Beyond CPUs,Project Meeting,2024-03-27 00:00:00,16:00:00,2024-03-27 00:00:00,16:45:00,0 days 00:45:00,"Domain: School, Type: Meeting",Meeting,School
+177,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-27 00:00:00,17:15:15,2024-03-27 00:00:00,17:46:19,0 days 00:31:04,"Domain: School, Type: Coding",Coding,School
+178,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-27 00:00:00,21:45:14,2024-03-27 00:00:00,23:16:50,0 days 01:31:36,"Domain: School, Type: Coding",Coding,School
+179,S2024,Cryptography,Lab 1,2024-03-28 00:00:00,07:57:20,2024-03-28 00:00:00,08:08:24,0 days 00:11:04,"Domain: School, Type: Coding",Coding,School
+180,S2024,Beyond CPUs,Paper Presentation,2024-03-28 00:00:00,08:08:43,2024-03-28 00:00:00,08:31:10,0 days 00:22:27,"Domain: School, Type: Research",Research,School
+181,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-28 00:00:00,12:46:56,2024-03-28 00:00:00,13:45:55,0 days 00:58:59,"Domain: School, Type: Coding",Coding,School
+182,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-28 00:00:00,13:48:29,2024-03-28 00:00:00,13:51:07,0 days 00:02:38,"Domain: School, Type: Coding",Coding,School
+183,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-28 00:00:00,14:12:04,2024-03-28 00:00:00,15:46:07,0 days 01:34:03,"Domain: School, Type: Coding",Coding,School
+184,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-28 00:00:00,17:56:38,2024-03-28 00:00:00,18:46:26,0 days 00:49:48,"Domain: School, Type: Coding",Coding,School
+185,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-28 00:00:00,18:49:46,2024-03-28 00:00:00,19:46:42,0 days 00:56:56,"Domain: School, Type: Coding",Coding,School
+186,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-29 00:00:00,09:06:52,2024-03-29 00:00:00,09:57:14,0 days 00:50:22,"Domain: School, Type: Coding",Coding,School
+187,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-29 00:00:00,10:48:10,2024-03-29 00:00:00,12:00:17,0 days 01:12:07,"Domain: School, Type: Coding",Coding,School
+188,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-29 00:00:00,12:29:05,2024-03-29 00:00:00,12:37:43,0 days 00:08:38,"Domain: School, Type: Coding",Coding,School
+189,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-29 00:00:00,12:43:27,2024-03-29 00:00:00,13:47:10,0 days 01:03:43,"Domain: School, Type: Coding",Coding,School
+190,S2024,Network Sciences,Course Enroll - State Estimator,2024-03-29 00:00:00,13:48:02,2024-03-29 00:00:00,14:31:43,0 days 00:43:41,"Domain: School, Type: Coding",Coding,School
+191,S2024,Network Sciences,Deliverable 1 Writing,2024-03-29 00:00:00,14:33:31,2024-03-29 00:00:00,14:44:08,0 days 00:10:37,"Domain: School, Type: Writing",Writing,School
+192,S2024,Network Sciences,Deliverable 1 Writing,2024-03-29 00:00:00,14:47:07,2024-03-29 00:00:00,15:26:57,0 days 00:39:50,"Domain: School, Type: Writing",Writing,School
+193,S2024,Network Sciences,Course Enroll - Final Estimates,2024-03-29 00:00:00,20:57:18,2024-03-29 00:00:00,22:27:36,0 days 01:30:18,"Domain: School, Type: Coding",Coding,School
+194,S2024,Beyond CPUs,03/28 Paper Critiques,2024-04-01 00:00:00,10:05:22,2024-04-01 00:00:00,10:23:04,0 days 00:17:42,"Domain: School, Type: Writing",Writing,School
+195,S2024,Beyond CPUs,03/28 Paper Critiques,2024-04-01 00:00:00,10:52:36,2024-04-01 00:00:00,11:06:43,0 days 00:14:07,"Domain: School, Type: Writing",Writing,School
+196,S2024,Cryptography,HW04,2024-04-01 00:00:00,11:18:48,2024-04-01 00:00:00,12:02:50,0 days 00:44:02,"Domain: School, Type: Practice",Practice,School
+197,S2024,Cryptography,HW04,2024-04-01 00:00:00,12:05:00,2024-04-01 00:00:00,12:27:25,0 days 00:22:25,"Domain: School, Type: Practice",Practice,School
+198,S2024,Cryptography,HW04,2024-04-01 00:00:00,13:08:36,2024-04-01 00:00:00,13:37:11,0 days 00:28:35,"Domain: School, Type: Practice",Practice,School
+199,S2024,Cryptography,HW04,2024-04-01 00:00:00,18:24:38,2024-04-01 00:00:00,18:41:24,0 days 00:16:46,"Domain: School, Type: Practice",Practice,School
+200,S2024,Cryptography,HW04,2024-04-01 00:00:00,18:43:11,2024-04-01 00:00:00,19:01:21,0 days 00:18:10,"Domain: School, Type: Practice",Practice,School
+201,S2024,Social Media and Misinformation,Reading: Algorithms,2024-04-01 00:00:00,21:01:10,2024-04-01 00:00:00,21:17:57,0 days 00:16:47,"Domain: School, Type: Reading",Reading,School
+202,S2024,Social Media and Misinformation,Reading: Algorithms,2024-04-01 00:00:00,21:31:04,2024-04-01 00:00:00,22:02:00,0 days 00:30:56,"Domain: School, Type: Reading",Reading,School
+203,S2024,Social Media and Misinformation,Reading: Algorithms,2024-04-02 00:00:00,08:16:56,2024-04-02 00:00:00,08:44:51,0 days 00:27:55,"Domain: School, Type: Reading",Reading,School
+204,S2024,Social Media and Misinformation,Reading: Algorithms,2024-04-02 00:00:00,10:15:00,2024-04-02 00:00:00,10:36:39,0 days 00:21:39,"Domain: School, Type: Reading",Reading,School
+205,S2024,Beyond CPUs,04/02 Paper Critiques,2024-04-02 00:00:00,13:17:38,2024-04-02 00:00:00,13:40:00,0 days 00:22:22,"Domain: School, Type: Writing",Writing,School
+206,S2024,Cryptography,Quiz 09-10,2024-04-02 00:00:00,16:47:40,2024-04-02 00:00:00,17:08:07,0 days 00:20:27,"Domain: School, Type: Assessment",Assessment,School
+207,S2024,Cryptography,Quiz 09-10,2024-04-02 00:00:00,18:53:32,2024-04-02 00:00:00,19:05:53,0 days 00:12:21,"Domain: School, Type: Assessment",Assessment,School
+208,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-02 00:00:00,20:58:09,2024-04-02 00:00:00,22:41:21,0 days 01:43:12,"Domain: School, Type: Writing",Writing,School
+209,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-02 00:00:00,22:45:08,2024-04-02 00:00:00,22:50:54,0 days 00:05:46,"Domain: School, Type: Writing",Writing,School
+210,S2024,Cryptography,Paper 2: Detection of Weak Keys in Network Devices,2024-04-03 00:00:00,09:00:06,2024-04-03 00:00:00,09:33:47,0 days 00:33:41,"Domain: School, Type: Research",Research,School
+211,S2024,Cryptography,Paper 3: Forged SSL Certificates in the Wild,2024-04-03 00:00:00,09:42:40,2024-04-03 00:00:00,10:21:56,0 days 00:39:16,"Domain: School, Type: Research",Research,School
+212,S2024,Cryptography,Paper 3: Forged SSL Certificates in the Wild,2024-04-03 00:00:00,12:09:50,2024-04-03 00:00:00,12:27:37,0 days 00:17:47,"Domain: School, Type: Research",Research,School
+213,S2024,Cryptography,Quiz 09-10,2024-04-03 00:00:00,12:29:00,2024-04-03 00:00:00,12:40:16,0 days 00:11:16,"Domain: School, Type: Assessment",Assessment,School
+214,S2024,Cryptography,Paper 4: DNSSEC Ecosystem,2024-04-03 00:00:00,16:14:41,2024-04-03 00:00:00,16:34:24,0 days 00:19:43,"Domain: School, Type: Research",Research,School
+215,S2024,Cryptography,Paper 4: DNSSEC Ecosystem,2024-04-03 00:00:00,17:10:14,2024-04-03 00:00:00,17:46:58,0 days 00:36:44,"Domain: School, Type: Research",Research,School
+216,S2024,Cryptography,HW05,2024-04-08 00:00:00,08:46:42,2024-04-08 00:00:00,09:52:22,0 days 01:05:40,"Domain: School, Type: Practice",Practice,School
+217,S2024,Beyond CPUs,04/04 Paper Critiques,2024-04-08 00:00:00,10:13:24,2024-04-08 00:00:00,10:46:12,0 days 00:32:48,"Domain: School, Type: Writing",Writing,School
+218,S2024,Social Media and Misinformation,Reading: Business Model,2024-04-08 00:00:00,11:16:26,2024-04-08 00:00:00,12:04:50,0 days 00:48:24,"Domain: School, Type: Reading",Reading,School
+219,S2024,Social Media and Misinformation,Reading: Business Model,2024-04-08 00:00:00,13:16:33,2024-04-08 00:00:00,13:34:35,0 days 00:18:02,"Domain: School, Type: Reading",Reading,School
+220,S2024,Cryptography,HW05,2024-04-08 00:00:00,18:07:00,2024-04-08 00:00:00,18:17:01,0 days 00:10:01,"Domain: School, Type: Practice",Practice,School
+221,S2024,Cryptography,Quiz 11-12,2024-04-09 00:00:00,14:03:32,2024-04-09 00:00:00,14:19:11,0 days 00:15:39,"Domain: School, Type: Assessment",Assessment,School
+222,S2024,Cryptography,Quiz 11-12,2024-04-09 00:00:00,14:37:02,2024-04-09 00:00:00,14:42:06,0 days 00:05:04,"Domain: School, Type: Assessment",Assessment,School
+223,,Practicum - My Practicum,Practicum Proposal,2024-04-09 00:00:00,14:51:35,2024-04-09 00:00:00,15:49:42,0 days 00:58:07,"Domain: School, Type: Writing",Writing,School
+224,,Practicum - My Practicum,Practicum Proposal,2024-04-09 00:00:00,16:10:28,2024-04-09 00:00:00,16:20:14,0 days 00:09:46,"Domain: School, Type: Writing",Writing,School
+225,,Practicum - My Practicum,Practicum Emails,2024-04-09 00:00:00,16:20:16,2024-04-09 00:00:00,16:23:40,0 days 00:03:24,"Domain: School, Type: Writing",Writing,School
+226,S2024,Cryptography,Quiz 11-12,2024-04-09 00:00:00,16:36:55,2024-04-09 00:00:00,16:46:11,0 days 00:09:16,"Domain: School, Type: Assessment",Assessment,School
+227,S2024,Beyond CPUs,04/09 Paper Critiques,2024-04-10 00:00:00,09:20:00,2024-04-10 00:00:00,09:31:14,0 days 00:11:14,"Domain: School, Type: Writing",Writing,School
+228,S2024,Beyond CPUs,Project Plan,2024-04-10 00:00:00,09:32:38,2024-04-10 00:00:00,09:39:35,0 days 00:06:57,"Domain: School, Type: Research",Research,School
+229,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-10 00:00:00,09:40:47,2024-04-10 00:00:00,10:04:39,0 days 00:23:52,"Domain: School, Type: Writing",Writing,School
+230,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-10 00:00:00,10:17:23,2024-04-10 00:00:00,10:38:06,0 days 00:20:43,"Domain: School, Type: Writing",Writing,School
+231,S2024,Beyond CPUs,Project Plan,2024-04-10 00:00:00,10:39:11,2024-04-10 00:00:00,10:43:24,0 days 00:04:13,"Domain: School, Type: Research",Research,School
+232,S2024,Social Media and Misinformation,Reflection 4,2024-04-10 00:00:00,10:44:37,2024-04-10 00:00:00,12:08:48,0 days 01:24:11,"Domain: School, Type: Writing",Writing,School
+233,S2024,Cryptography,Project Meeting,2024-04-10 00:00:00,14:55:00,2024-04-10 00:00:00,15:20:00,0 days 00:25:00,"Domain: School, Type: Meeting",Meeting,School
+234,S2024,Beyond CPUs,Project Plan,2024-04-10 00:00:00,15:32:16,2024-04-10 00:00:00,15:38:00,0 days 00:05:44,"Domain: School, Type: Research",Research,School
+235,S2024,Beyond CPUs,04/11 Paper Critiques,2024-04-11 00:00:00,13:12:38,2024-04-11 00:00:00,13:43:43,0 days 00:31:05,"Domain: School, Type: Writing",Writing,School
+236,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-11 00:00:00,13:51:10,2024-04-11 00:00:00,14:07:27,0 days 00:16:17,"Domain: School, Type: Writing",Writing,School
+237,,Practicum - My Practicum,Practicum Office Hours,2024-04-11 00:00:00,14:30:00,2024-04-11 00:00:00,14:45:00,0 days 00:15:00,"Domain: School, Type: Meeting",Meeting,School
+238,,Practicum - My Practicum,Practicum Proposal,2024-04-11 00:00:00,15:20:00,2024-04-11 00:00:00,15:40:00,0 days 00:20:00,"Domain: School, Type: Writing",Writing,School
+239,,Practicum - My Practicum,Practicum Emails,2024-04-11 00:00:00,15:38:27,2024-04-11 00:00:00,15:39:58,0 days 00:01:31,"Domain: School, Type: Writing",Writing,School
+240,S2024,Social Media and Misinformation,Reflection 4,2024-04-11 00:00:00,15:40:04,2024-04-11 00:00:00,15:40:26,0 days 00:00:22,"Domain: School, Type: Writing",Writing,School
+241,S2024,Social Media and Misinformation,Reflection 4,2024-04-11 00:00:00,15:42:05,2024-04-11 00:00:00,15:50:25,0 days 00:08:20,"Domain: School, Type: Writing",Writing,School
+242,S2024,Social Media and Misinformation,Reflection 4,2024-04-11 00:00:00,15:51:00,2024-04-11 00:00:00,16:16:05,0 days 00:25:05,"Domain: School, Type: Writing",Writing,School
+243,S2024,Social Media and Misinformation,Reflection 4,2024-04-12 00:00:00,16:56:56,2024-04-12 00:00:00,17:17:11,0 days 00:20:15,"Domain: School, Type: Writing",Writing,School
+244,S2024,Beyond CPUs,Project Testing,2024-04-13 00:00:00,10:39:47,2024-04-13 00:00:00,10:52:38,0 days 00:12:51,"Domain: School, Type: Research",Research,School
+245,S2024,Beyond CPUs,Project Testing,2024-04-13 00:00:00,11:42:10,2024-04-13 00:00:00,11:59:44,0 days 00:17:34,"Domain: School, Type: Research",Research,School
+246,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-13 00:00:00,12:00:00,2024-04-13 00:00:00,12:13:09,0 days 00:13:09,"Domain: School, Type: Writing",Writing,School
+247,S2024,Beyond CPUs,Project Testing,2024-04-14 00:00:00,18:26:04,2024-04-14 00:00:00,18:27:58,0 days 00:01:54,"Domain: School, Type: Research",Research,School
+248,S2024,Beyond CPUs,Project Testing,2024-04-14 00:00:00,18:32:10,2024-04-14 00:00:00,18:43:39,0 days 00:11:29,"Domain: School, Type: Research",Research,School
+249,S2024,Social Media and Misinformation,Reflection 4,2024-04-14 00:00:00,20:13:35,2024-04-14 00:00:00,21:13:25,0 days 00:59:50,"Domain: School, Type: Writing",Writing,School
+250,S2024,Cryptography,Lab 2,2024-04-15 00:00:00,10:09:21,2024-04-15 00:00:00,11:16:35,0 days 01:07:14,"Domain: School, Type: Practice",Practice,School
+251,S2024,Cryptography,Lab 2,2024-04-15 00:00:00,12:30:00,2024-04-15 00:00:00,13:00:00,0 days 00:30:00,"Domain: School, Type: Practice",Practice,School
+252,S2024,Cryptography,Lab 2,2024-04-15 00:00:00,14:55:13,2024-04-15 00:00:00,15:36:08,0 days 00:40:55,"Domain: School, Type: Practice",Practice,School
+253,S2024,Cryptography,Lab 2,2024-04-15 00:00:00,15:40:01,2024-04-15 00:00:00,15:52:00,0 days 00:11:59,"Domain: School, Type: Practice",Practice,School
+254,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-15 00:00:00,16:29:28,2024-04-15 00:00:00,16:37:22,0 days 00:07:54,"Domain: School, Type: Writing",Writing,School
+255,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-15 00:00:00,16:37:35,2024-04-15 00:00:00,16:44:53,0 days 00:07:18,"Domain: School, Type: Writing",Writing,School
+256,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-15 00:00:00,20:04:29,2024-04-15 00:00:00,20:04:30,0 days 00:00:01,"Domain: School, Type: Writing",Writing,School
+257,S2024,Cryptography,Lab 2,2024-04-15 00:00:00,20:04:38,2024-04-15 00:00:00,20:09:54,0 days 00:05:16,"Domain: School, Type: Practice",Practice,School
+258,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-16 00:00:00,08:46:21,2024-04-16 00:00:00,09:07:25,0 days 00:21:04,"Domain: School, Type: Writing",Writing,School
+259,S2024,Cryptography,Lab 2,2024-04-16 00:00:00,16:20:45,2024-04-16 00:00:00,16:34:39,0 days 00:13:54,"Domain: School, Type: Practice",Practice,School
+260,S2024,Cryptography,Quiz 13-14,2024-04-16 00:00:00,16:34:53,2024-04-16 00:00:00,16:57:20,0 days 00:22:27,"Domain: School, Type: Assessment",Assessment,School
+261,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-16 00:00:00,16:59:27,2024-04-16 00:00:00,17:17:27,0 days 00:18:00,"Domain: School, Type: Writing",Writing,School
+262,S2024,Cryptography,Quiz 13-14,2024-04-16 00:00:00,17:17:55,2024-04-16 00:00:00,17:36:57,0 days 00:19:02,"Domain: School, Type: Assessment",Assessment,School
+263,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-16 00:00:00,17:45:00,2024-04-16 00:00:00,17:59:26,0 days 00:14:26,"Domain: School, Type: Writing",Writing,School
+264,S2024,Cryptography,Paper Presentation,2024-04-16 00:00:00,18:29:22,2024-04-16 00:00:00,18:29:27,0 days 00:00:05,"Domain: School, Type: Writing",Writing,School
+265,S2024,Social Media and Misinformation,Reading: Infrastructure,2024-04-16 00:00:00,18:29:40,2024-04-16 00:00:00,19:26:55,0 days 00:57:15,"Domain: School, Type: Reading",Reading,School
+266,S2024,Network Sciences,Enroll Project - Deliverable 2 Report,2024-04-16 00:00:00,21:00:00,2024-04-16 00:00:00,22:04:14,0 days 01:04:14,"Domain: School, Type: Writing",Writing,School
+267,S2024,Beyond CPUs,Project Presentation,2024-04-17 00:00:00,08:16:37,2024-04-17 00:00:00,08:50:12,0 days 00:33:35,"Domain: School, Type: Research",Research,School
+268,S2024,Cryptography,Paper Presentation,2024-04-17 00:00:00,09:27:43,2024-04-17 00:00:00,09:38:04,0 days 00:10:21,"Domain: School, Type: Writing",Writing,School
+269,S2024,Cryptography,Paper 5: Spoofing PDF Signatures,2024-04-17 00:00:00,09:40:01,2024-04-17 00:00:00,10:24:42,0 days 00:44:41,"Domain: School, Type: Research",Research,School
+270,S2024,Cryptography,Paper 6: Crytographic API Usability,2024-04-17 00:00:00,10:40:57,2024-04-17 00:00:00,11:20:33,0 days 00:39:36,"Domain: School, Type: Research",Research,School
+271,S2024,Cryptography,Paper Presentation,2024-04-17 00:00:00,12:46:47,2024-04-17 00:00:00,12:47:08,0 days 00:00:21,"Domain: School, Type: Writing",Writing,School
+272,S2024,Cryptography,Paper Presentation,2024-04-17 00:00:00,12:56:13,2024-04-17 00:00:00,13:19:32,0 days 00:23:19,"Domain: School, Type: Writing",Writing,School
+273,S2024,Cryptography,Paper Presentation,2024-04-17 00:00:00,16:09:59,2024-04-17 00:00:00,16:31:32,0 days 00:21:33,"Domain: School, Type: Writing",Writing,School
+274,S2024,Beyond CPUs,Project Presentation,2024-04-17 00:00:00,16:32:24,2024-04-17 00:00:00,16:46:48,0 days 00:14:24,"Domain: School, Type: Research",Research,School
+275,S2024,Beyond CPUs,Project Presentation,2024-04-18 00:00:00,08:05:00,2024-04-18 00:00:00,08:28:52,0 days 00:23:52,"Domain: School, Type: Research",Research,School
+276,S2024,Beyond CPUs,Project Presentation,2024-04-18 00:00:00,08:37:44,2024-04-18 00:00:00,08:39:30,0 days 00:01:46,"Domain: School, Type: Research",Research,School
+277,,Practicum - My Practicum,Substack Setup,2024-04-18 00:00:00,21:52:58,2024-04-18 00:00:00,22:10:50,0 days 00:17:52,"Domain: School, Type: Implementing",Implementing,School
+278,S2024,Cryptography,Course Review,2024-04-21 00:00:00,18:51:18,2024-04-21 00:00:00,19:24:24,0 days 00:33:06,"Domain: School, Type: Writing",Writing,School
+279,S2024,Beyond CPUs,Course Review,2024-04-21 00:00:00,19:24:33,2024-04-21 00:00:00,19:47:20,0 days 00:22:47,"Domain: School, Type: Writing",Writing,School
+280,S2024,Network Sciences,Course Review,2024-04-21 00:00:00,19:47:33,2024-04-21 00:00:00,20:07:28,0 days 00:19:55,"Domain: School, Type: Writing",Writing,School
+281,S2024,Social Media and Misinformation,Course Review,2024-04-21 00:00:00,20:07:41,2024-04-21 00:00:00,20:32:06,0 days 00:24:25,"Domain: School, Type: Writing",Writing,School
+282,S2024,Cryptography,Paper Presentation,2024-04-22 00:00:00,08:35:00,2024-04-22 00:00:00,08:41:58,0 days 00:06:58,"Domain: School, Type: Writing",Writing,School
+283,S2024,Social Media and Misinformation,KOSA Reading,2024-04-22 00:00:00,12:50:50,2024-04-22 00:00:00,13:09:26,0 days 00:18:36,"Domain: School, Type: Reading",Reading,School
+284,S2024,Social Media and Misinformation,Reading: Hope!,2024-04-22 00:00:00,13:23:53,2024-04-22 00:00:00,13:27:14,0 days 00:03:21,"Domain: School, Type: Reading",Reading,School
+285,S2024,Social Media and Misinformation,Reading: Hope!,2024-04-22 00:00:00,14:53:01,2024-04-22 00:00:00,15:35:16,0 days 00:42:15,"Domain: School, Type: Reading",Reading,School
+286,S2024,Social Media and Misinformation,Reading: Hope!,2024-04-22 00:00:00,15:47:25,2024-04-22 00:00:00,15:55:00,0 days 00:07:35,"Domain: School, Type: Reading",Reading,School
+287,S2024,Cryptography,HW06,2024-04-22 00:00:00,18:38:29,2024-04-22 00:00:00,20:13:23,0 days 01:34:54,"Domain: School, Type: Practice",Practice,School
+288,S2024,Cryptography,HW06,2024-04-22 00:00:00,20:15:46,2024-04-22 00:00:00,20:44:17,0 days 00:28:31,"Domain: School, Type: Practice",Practice,School
+289,S2024,Cryptography,Paper Presentation,2024-04-22 00:00:00,21:35:30,2024-04-22 00:00:00,21:46:59,0 days 00:11:29,"Domain: School, Type: Writing",Writing,School
+290,S2024,Social Media and Misinformation,KOSA Reading,2024-04-22 00:00:00,21:48:38,2024-04-22 00:00:00,21:49:13,0 days 00:00:35,"Domain: School, Type: Reading",Reading,School
+291,S2024,Social Media and Misinformation,Reading: Hope!,2024-04-23 00:00:00,09:32:42,2024-04-23 00:00:00,10:14:34,0 days 00:41:52,"Domain: School, Type: Reading",Reading,School
+292,S2024,Network Sciences,PA02: Random Graphs,2024-04-23 00:00:00,11:09:08,2024-04-23 00:00:00,11:33:11,0 days 00:24:03,"Domain: School, Type: Coding",Coding,School
+293,S2024,Cryptography,Paper Presentation,2024-04-23 00:00:00,16:28:12,2024-04-23 00:00:00,17:24:33,0 days 00:56:21,"Domain: School, Type: Writing",Writing,School
+294,S2024,Cryptography,Quiz 14-15,2024-04-23 00:00:00,19:07:36,2024-04-23 00:00:00,19:41:01,0 days 00:33:25,"Domain: School, Type: Assessment",Assessment,School
+295,S2024,Network Sciences,PA02: Random Graphs,2024-04-23 00:00:00,19:45:00,2024-04-23 00:00:00,20:30:26,0 days 00:45:26,"Domain: School, Type: Coding",Coding,School
+296,S2024,Network Sciences,PA02: Random Graphs,2024-04-23 00:00:00,20:31:00,2024-04-23 00:00:00,20:36:13,0 days 00:05:13,"Domain: School, Type: Coding",Coding,School
+297,S2024,Cryptography,HW06,2024-04-23 00:00:00,20:36:25,2024-04-23 00:00:00,21:13:03,0 days 00:36:38,"Domain: School, Type: Practice",Practice,School
+298,S2024,Network Sciences,PA02: Random Graphs,2024-04-24 00:00:00,09:14:04,2024-04-24 00:00:00,09:35:50,0 days 00:21:46,"Domain: School, Type: Coding",Coding,School
+299,S2024,Network Sciences,HW3,2024-04-24 00:00:00,09:35:59,2024-04-24 00:00:00,10:33:38,0 days 00:57:39,"Domain: School, Type: Practice",Practice,School
+300,S2024,Network Sciences,HW3,2024-04-24 00:00:00,10:51:22,2024-04-24 00:00:00,11:48:32,0 days 00:57:10,"Domain: School, Type: Practice",Practice,School
+301,S2024,Network Sciences,HW3,2024-04-24 00:00:00,12:24:16,2024-04-24 00:00:00,13:32:38,0 days 01:08:22,"Domain: School, Type: Practice",Practice,School
+302,S2024,Network Sciences,HW3,2024-04-24 00:00:00,14:57:52,2024-04-24 00:00:00,15:42:44,0 days 00:44:52,"Domain: School, Type: Practice",Practice,School
+303,,Practicum - My Practicum,Before: Database Design,2024-04-25 00:00:00,14:30:18,2024-04-25 00:00:00,15:06:07,0 days 00:35:49,"Domain: School, Type: Implementing",Implementing,School
+304,,Practicum - My Practicum,Before: Spotify Endpoint,2024-04-25 00:00:00,15:06:22,2024-04-25 00:00:00,15:36:39,0 days 00:30:17,"Domain: School, Type: Coding",Coding,School
+305,S2024,Social Media and Misinformation,Reflection 5,2024-04-26 00:00:00,10:47:56,2024-04-26 00:00:00,10:52:25,0 days 00:04:29,"Domain: School, Type: Writing",Writing,School
+306,S2024,Social Media and Misinformation,Reflection 5,2024-04-26 00:00:00,10:53:53,2024-04-26 00:00:00,11:13:36,0 days 00:19:43,"Domain: School, Type: Writing",Writing,School
+307,S2024,Network Sciences,HW3,2024-04-29 00:00:00,13:07:27,2024-04-29 00:00:00,13:32:37,0 days 00:25:10,"Domain: School, Type: Practice",Practice,School
+308,S2024,Social Media and Misinformation,Reading: What Hath We Wrought?,2024-04-29 00:00:00,15:20:11,2024-04-29 00:00:00,15:26:10,0 days 00:05:59,"Domain: School, Type: Reading",Reading,School
+309,S2024,Network Sciences,Project Reflection,2024-04-29 00:00:00,16:22:15,2024-04-29 00:00:00,16:32:31,0 days 00:10:16,"Domain: School, Type: Writing",Writing,School
+310,S2024,Network Sciences,HW3,2024-04-29 00:00:00,19:04:18,2024-04-29 00:00:00,19:09:40,0 days 00:05:22,"Domain: School, Type: Practice",Practice,School
+311,S2024,Cryptography,Course Project: Report,2024-04-29 00:00:00,19:09:59,2024-04-29 00:00:00,20:18:03,0 days 01:08:04,"Domain: School, Type: Writing",Writing,School
+312,S2024,Cryptography,Course Project: Report,2024-04-29 00:00:00,20:23:13,2024-04-29 00:00:00,20:58:08,0 days 00:34:55,"Domain: School, Type: Writing",Writing,School
+313,S2024,Cryptography,Course Project: Presentation,2024-04-29 00:00:00,21:06:19,2024-04-29 00:00:00,21:27:36,0 days 00:21:17,"Domain: School, Type: Writing",Writing,School
+314,S2024,Social Media and Misinformation,Reading: What Hath We Wrought?,2024-04-30 00:00:00,08:44:53,2024-04-30 00:00:00,09:05:51,0 days 00:20:58,"Domain: School, Type: Reading",Reading,School
+315,S2024,Beyond CPUs,Course Project: Report,2024-04-30 00:00:00,09:45:00,2024-04-30 00:00:00,10:33:00,0 days 00:48:00,"Domain: School, Type: Writing",Writing,School
+316,S2024,Beyond CPUs,Course Project: Report,2024-04-30 00:00:00,13:32:47,2024-04-30 00:00:00,14:25:13,0 days 00:52:26,"Domain: School, Type: Writing",Writing,School
+317,S2024,Social Media and Misinformation,Reading: What Hath We Wrought?,2024-04-30 00:00:00,14:31:30,2024-04-30 00:00:00,15:12:58,0 days 00:41:28,"Domain: School, Type: Reading",Reading,School
+318,,Practicum - My Practicum,Before: Spotify Endpoint,2024-04-30 00:00:00,15:15:48,2024-04-30 00:00:00,16:32:36,0 days 01:16:48,"Domain: School, Type: Coding",Coding,School
+319,S2024,Cryptography,Course Project: Report,2024-04-30 00:00:00,18:00:25,2024-04-30 00:00:00,19:09:25,0 days 01:09:00,"Domain: School, Type: Writing",Writing,School
+320,S2024,Cryptography,Course Project: Report,2024-04-30 00:00:00,19:14:05,2024-04-30 00:00:00,19:27:00,0 days 00:12:55,"Domain: School, Type: Writing",Writing,School
+321,S2024,Cryptography,Course Project: Report,2024-04-30 00:00:00,19:27:56,2024-04-30 00:00:00,19:34:56,0 days 00:07:00,"Domain: School, Type: Writing",Writing,School
+322,S2024,Cryptography,Course Project: Report,2024-04-30 00:00:00,19:36:09,2024-04-30 00:00:00,19:41:42,0 days 00:05:33,"Domain: School, Type: Writing",Writing,School
+323,S2024,Beyond CPUs,Course Project: Report,2024-04-30 00:00:00,20:47:01,2024-04-30 00:00:00,21:14:43,0 days 00:27:42,"Domain: School, Type: Writing",Writing,School
+324,,Practicum - My Practicum,Before: Spotify Endpoint,2024-04-30 00:00:00,21:15:00,2024-04-30 00:00:00,22:24:45,0 days 01:09:45,"Domain: School, Type: Coding",Coding,School
+325,S2024,Cryptography,Course Project: Report,2024-05-01 00:00:00,09:22:15,2024-05-01 00:00:00,09:57:21,0 days 00:35:06,"Domain: School, Type: Writing",Writing,School
+326,S2024,Beyond CPUs,Course Project: Report,2024-05-01 00:00:00,10:34:07,2024-05-01 00:00:00,10:34:17,0 days 00:00:10,"Domain: School, Type: Writing",Writing,School
+327,S2024,Cryptography,Course Project: Report,2024-05-01 00:00:00,10:34:19,2024-05-01 00:00:00,10:45:38,0 days 00:11:19,"Domain: School, Type: Writing",Writing,School
+328,S2024,Beyond CPUs,Course Project: Report,2024-05-01 00:00:00,10:45:41,2024-05-01 00:00:00,10:47:27,0 days 00:01:46,"Domain: School, Type: Writing",Writing,School
+329,S2024,Cryptography,Course Project: Report,2024-05-01 00:00:00,10:47:29,2024-05-01 00:00:00,10:48:49,0 days 00:01:20,"Domain: School, Type: Writing",Writing,School
+330,S2024,Beyond CPUs,Course Project: Report,2024-05-01 00:00:00,10:53:02,2024-05-01 00:00:00,11:01:39,0 days 00:08:37,"Domain: School, Type: Writing",Writing,School
+331,S2024,Social Media and Misinformation,Reflection 5,2024-05-01 00:00:00,11:23:25,2024-05-01 00:00:00,12:05:20,0 days 00:41:55,"Domain: School, Type: Writing",Writing,School
+332,S2024,Network Sciences,HW3,2024-05-01 00:00:00,15:30:56,2024-05-01 00:00:00,15:32:21,0 days 00:01:25,"Domain: School, Type: Practice",Practice,School
+333,S2024,Network Sciences,HW3,2024-05-01 00:00:00,15:33:34,2024-05-01 00:00:00,15:52:29,0 days 00:18:55,"Domain: School, Type: Practice",Practice,School
+334,S2024,Beyond CPUs,Course Project: Report,2024-05-01 00:00:00,15:59:08,2024-05-01 00:00:00,16:18:43,0 days 00:19:35,"Domain: School, Type: Writing",Writing,School
+335,S2024,Social Media and Misinformation,Reflection 5,2024-05-01 00:00:00,16:27:04,2024-05-01 00:00:00,16:57:48,0 days 00:30:44,"Domain: School, Type: Writing",Writing,School
+336,S2024,Cryptography,Course Project: Report,2024-05-01 00:00:00,21:55:58,2024-05-01 00:00:00,22:31:31,0 days 00:35:33,"Domain: School, Type: Writing",Writing,School
+337,S2024,Social Media and Misinformation,Reflection 5,2024-05-02 00:00:00,15:08:51,2024-05-02 00:00:00,16:02:11,0 days 00:53:20,"Domain: School, Type: Writing",Writing,School
+338,S2024,Social Media and Misinformation,Reflection 5,2024-05-03 00:00:00,08:48:10,2024-05-03 00:00:00,09:07:57,0 days 00:19:47,"Domain: School, Type: Writing",Writing,School
+339,,Practicum - My Practicum,Before: Database,2024-05-03 00:00:00,09:10:52,2024-05-03 00:00:00,10:07:36,0 days 00:56:44,"Domain: School, Type: Reading",Reading,School
+340,S2024,Cryptography,Finals Study,2024-05-03 00:00:00,16:20:33,2024-05-03 00:00:00,17:32:40,0 days 01:12:07,"Domain: School, Type: Practice",Practice,School
+341,S2024,Cryptography,Finals Study,2024-05-03 00:00:00,17:51:51,2024-05-03 00:00:00,18:08:05,0 days 00:16:14,"Domain: School, Type: Practice",Practice,School
+342,S2024,Cryptography,Finals Study,2024-05-03 00:00:00,20:47:14,2024-05-03 00:00:00,21:12:44,0 days 00:25:30,"Domain: School, Type: Practice",Practice,School
+343,S2024,Cryptography,Finals Study,2024-05-03 00:00:00,21:18:27,2024-05-03 00:00:00,22:01:02,0 days 00:42:35,"Domain: School, Type: Practice",Practice,School
+344,S2024,Cryptography,Finals Study,2024-05-04 00:00:00,09:21:49,2024-05-04 00:00:00,10:10:59,0 days 00:49:10,"Domain: School, Type: Practice",Practice,School
+345,S2024,Cryptography,Finals Study,2024-05-04 00:00:00,10:37:18,2024-05-04 00:00:00,11:00:22,0 days 00:23:04,"Domain: School, Type: Practice",Practice,School
+346,S2024,Cryptography,Finals Study,2024-05-04 00:00:00,11:00:24,2024-05-04 00:00:00,11:05:43,0 days 00:05:19,"Domain: School, Type: Practice",Practice,School
+347,S2024,Cryptography,Finals Study,2024-05-04 00:00:00,11:32:18,2024-05-04 00:00:00,11:39:34,0 days 00:07:16,"Domain: School, Type: Practice",Practice,School
+348,S2024,Cryptography,Finals Study,2024-05-04 00:00:00,12:13:52,2024-05-04 00:00:00,12:20:24,0 days 00:06:32,"Domain: School, Type: Practice",Practice,School
+349,S2024,Social Media and Misinformation,Platform Overview,2024-05-06 00:00:00,15:00:24,2024-05-06 00:00:00,15:09:28,0 days 00:09:04,"Domain: School, Type: Writing",Writing,School
+350,S2024,Social Media and Misinformation,Research Narrative,2024-05-06 00:00:00,15:09:43,2024-05-06 00:00:00,15:10:19,0 days 00:00:36,"Domain: School, Type: Writing",Writing,School
+351,S2024,Social Media and Misinformation,Research Narrative,2024-05-06 00:00:00,15:10:23,2024-05-06 00:00:00,16:11:33,0 days 01:01:10,"Domain: School, Type: Writing",Writing,School
+352,S2024,Social Media and Misinformation,Research Narrative,2024-05-06 00:00:00,18:53:50,2024-05-06 00:00:00,20:42:13,0 days 01:48:23,"Domain: School, Type: Writing",Writing,School
+353,S2024,Social Media and Misinformation,Research Narrative,2024-05-06 00:00:00,20:48:24,2024-05-06 00:00:00,21:18:02,0 days 00:29:38,"Domain: School, Type: Writing",Writing,School
+354,S2024,Social Media and Misinformation,Platform Overview,2024-05-06 00:00:00,21:18:04,2024-05-06 00:00:00,21:45:26,0 days 00:27:22,"Domain: School, Type: Writing",Writing,School
+355,S2024,Social Media and Misinformation,Research Narrative,2024-05-07 00:00:00,08:51:55,2024-05-07 00:00:00,10:31:45,0 days 01:39:50,"Domain: School, Type: Writing",Writing,School
+356,S2024,Network Sciences,Final Study,2024-05-07 00:00:00,13:33:11,2024-05-07 00:00:00,14:09:57,0 days 00:36:46,"Domain: School, Type: Practice",Practice,School
+357,S2024,Network Sciences,Final Study,2024-05-07 00:00:00,16:39:57,2024-05-07 00:00:00,16:42:25,0 days 00:02:28,"Domain: School, Type: Practice",Practice,School
+358,,Practicum - My Practicum,Practicum Proposal,2024-01-07,19:02:44,2024-01-07,20:13:46,0 days 01:11:02,"Domain: School, Type: Writing",Writing,School
+359,,Practicum - My Practicum,Practicum Proposal,2024-01-07,20:24:29,2024-01-07,20:52:59,0 days 00:28:30,"Domain: School, Type: Writing",Writing,School
+360,,Practicum - My Practicum,Practicum Proposal,2024-01-08,09:29:40,2024-01-08,10:58:47,0 days 01:29:07,"Domain: School, Type: Writing",Writing,School
+361,,Practicum - My Practicum,Practicum Proposal,2024-01-08,11:03:51,2024-01-08,11:15:54,0 days 00:12:03,"Domain: School, Type: Writing",Writing,School
+362,,Practicum - My Practicum,Practicum Proposal,2024-01-31,08:51:12,2024-01-31,09:12:57,0 days 00:21:45,"Domain: School, Type: Writing",Writing,School
+363,,Practicum - My Practicum,Practicum Proposal,2024-01-31,09:14:08,2024-01-31,09:50:45,0 days 00:36:37,"Domain: School, Type: Writing",Writing,School
+364,,Practicum - My Practicum,Practicum Proposal,2024-02-12,11:05:56,2024-02-12,11:18:01,0 days 00:12:05,"Domain: School, Type: Writing",Writing,School
+365,,Practicum - My Practicum,Practicum Proposal,2024-02-12,12:00:00,2024-02-12,12:32:00,0 days 00:32:00,"Domain: School, Type: Writing",Writing,School
