@@ -3,8 +3,8 @@
 ### Full Semesters
 | Semester (Report) | Per Work Type (png) | Per Day of Week (png) | Plaintext (txt)    | Dataset (csv) |
 |-------------------|---------------|-----------------|--------------|-----------|
-| [S2023](reports/S2023_Toggl.pdf) | ❌ Not tracked| ✅ [Available](images/S2023_per_day.png) | ✅ [Available](logs/S2023_raw_stats.png) | ✅ [Available](data/S2023_cleaned.csv) |
-| [F2023](reports/F2023_Toggl.pdf) | ✅ [Available](images/F2023_per_type.png)| ✅ [Available](images/F2023_per_day.png) | ✅ [Available](logs/F2023_raw_stats.png) | ✅ [Available](data/F2023_cleaned.csv) | 
+| [S2023](reports/S2023_Toggl.pdf) | ❌ Not tracked| ✅ [Available](images/S2023_per_day.png) | ✅ [Available](logs/S2023_raw_stats.txt) | ✅ [Available](data/S2023_cleaned.csv) |
+| [F2023](reports/F2023_Toggl.pdf) | ✅ [Available](images/F2023_per_type.png)| ✅ [Available](images/F2023_per_day.png) | ✅ [Available](logs/F2023_raw_stats.txt) | ✅ [Available](data/F2023_cleaned.csv) | 
 
 ### Individual Courses
   
@@ -24,13 +24,13 @@ Reports include individual assignment times _and_ time investments per semester.
 
 ### Other Resources
 * [Course information](data/ClassInfo.csv)
-  * Can be joined to a semester dataset on Project == Toggl Name
+  * Can be joined to a semester dataset on [semester].Project == [classinfo].Toggl Name
 * [Hours per credit per week](images/hours_per_credit.png)
   * Shows hours of non-lecture work per credit per week
 
 # How I Track my Time
 
-Since Spring of 2023, I have tracked my out-of-class time (i.e. everything except lectures) spent for each course I've taken. All of this was done through [Toggl](https://track.toggl.com/timer), which I thought was intuitive (and, most importantly, free). 
+Since Spring of 2023, I've tracked my out-of-class time (i.e. everything except lectures) spent for each course I've taken. All of this was done through [Toggl](https://track.toggl.com/timer), which I thought was intuitive (and, most importantly, free). 
 
 In Fall of 2023, I added tags that specified the type of work being done for a specific assignment.
 
@@ -50,11 +50,11 @@ In Fall of 2023, I added tags that specified the type of work being done for a s
   * This includes IDE configuration, LMS configuration, etc.
 * **Assessments**: Any assessment taken outside of class. This includes quizzes and exams.
 
-I do not track lecture time. I attend (nearly) every lecture, so I can easily calculate how much time I've spent in lecture if needed. Furthermore, the benchmark of "3 hours per 1 hour of lecture" was a compelling relationship to explore (and, for me, it's untrue). 
+I do not track lecture time. I attend most lectures, so I can figure out how much time I've spent in lecture if needed. Furthermore, the benchmark of "3 hours per 1 hour of lecture" was a compelling relationship to explore (and, for me, it's untrue). 
 
 I have a few rules for when I track time: 
 * Looking at my phone for more than 15 seconds forces the timer to stop.
-* Any breaks (bathroom, snack, stretch) forces the timer to stop.
+* Any breaks (snack, stretch, etc.) forces the timer to stop.
 * Switching tasks forces the timer to switch with me.
 
 # Why I Track my Time
@@ -66,7 +66,7 @@ There's a few reasons why I track the time I spend on classes:
 ### 2. Tracking assignments provides a measure of difficulty
 > Time gives an objective measure of difficulty - it's not a great measure, but it's at a metric. For example, the start of a paper is always tough, so I'll force myself to sit and write for an hour. Or, if I'm working on a frustrating project, I can check my time and say, "Wow, I've invested a lot of time into this. I'm probably working on a difficult problem." This recognition allows me to take pride in doing difficult work. 
 ### 3. Tracking classes keeps me accountable
-> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Really? ALL day? Hyperbolic complaints about classwork commitments can be taken literally, forcing unncessary concessions from professors and creating a negative student culture. Tracking my own time allows me to recognize inordinate time use on an assignment and change my strategy. Maybe, I need to change my approach. Maybe, I need to spend less time on a certain aspect. Maybe, I just need to take a break because I've been working for too long. 
+> One of my biggest pet peeves is hearing other students say, "I spent ALL day working on this assignment." Really? ALL day? Hyperbolic complaints about classwork commitments can be taken literally, forcing unncessary concessions from professors and creating a negative student culture. Tracking my own time allows me to recognize inordinate time use on an assignment and change my strategy. Maybe, I need to change my approach. Maybe, I need to spend less time on a certain aspect of the assignment. Maybe, I just need to take a break because I've been working for too long. 
 ### 4. Tracking my time keeps me focused
 > Starting a timer means that I am engaging in deep work. There's a mindset shift when that timer starts. It prevents me from getting distracted or otherwise increasing the amount of time I spend on an assignment. 
 
@@ -88,8 +88,17 @@ I've decided to release my time tracking because I believe that it's helpful for
 # Interesting Things About this Data
 
 1. Some classes are spiky with irregular time contributions, like [OS](reports/OPERATING-SYSTEMS_CSCI442_F2023.pdf). Some classes are relatively flat, like [Principles of Chemistry I](reports/CHEMISTRY-I_CHGN121_S2023.pdf).
-2. All classes fall _very_ short of the "3 hours of outside work per credit per week" metric (see [graph](images/hours_per_credit.png)). If I spent an average of 12 hours per week on homework and spent about 12 hours in lecture every week, that's only 24 hours a week, as opposed to the "expected" 48 hours a week.
+2. My time use falls _very_ short of the "3 hours of outside work per credit per week" metric (see [graph](images/hours_per_credit.png)). If I spent an average of 12 hours per week on homework and spent about 12 hours in lecture every week, that's only 24 hours a week, as opposed to the "expected" 48 hours a week.
 3. My [time per day](images/F2023_per_day.png) is very slanted. I knew I would never have commitments on Monday nights, so that's when I would do most of my work. 
+
+# My Learning Style
+
+Everybody learns (and works) differently, so my data will undoubtedly differ from other students. 
+
+My learning style has a few characteristics: 
+1. **Trust and In-Person**: I absolutely prefer to learn from a lecturer that I trust rather than read something online, so attending lectures is a priority. This will reduce the amount of time an assignment takes because the work of understanding the concepts will have been completed in lecture. 
+2. **Individual**: I hate studying or doing homework in groups, so the vast majority of tracked entries describe individual, solo work.
+3. **Writing**: I take hand-written notes for every lecture and most readings. It keeps me engaged in the content and helps me actively organize my thoughts. 
 
 # Toggl Details
 
